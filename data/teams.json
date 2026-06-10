@@ -1,0 +1,2971 @@
+{
+  "_meta": {
+    "note": "48 đội WC 2026. detail=true là đội đã có hồ sơ đầy đủ trích từ Notion. Các đội khác có thông tin cơ bản, bổ sung dần.",
+    "updated": "2026-05-20"
+  },
+  "teams": {
+    "MEX": {
+      "code": "MEX",
+      "name": "Mexico",
+      "nick": "El Tri",
+      "flag": "🇲🇽",
+      "group": "A",
+      "conf": "CONCACAF",
+      "fifa": 15,
+      "host": true,
+      "coach": "Javier Aguirre (Mexico, nhiệm kỳ thứ 3 — kỷ lục thắng nhiều nhất lịch sử El Tri)",
+      "captain": "Edson Álvarez (Fenerbahçe)",
+      "stadium": "Estadio Azteca (87.523 chỗ, cao 2.250m)",
+      "summary": "Đồng chủ nhà, đá trận khai mạc tại Azteca. Lần dự WC thứ 18. Quốc gia duy nhất đăng cai WC 3 lần (1970, 1986, 2026). Vô địch Gold Cup 2025.",
+      "qualification": "Vé tự động (chủ nhà). Vô địch CONCACAF Gold Cup 2025. Phong độ: thắng 3/5, thủ chắc (hòa BĐN, Bỉ).",
+      "wcHistory": "18 lần dự. Tốt nhất: Tứ kết 1970 & 1986 (đều khi làm chủ nhà). Đá trận đầu tiên trong lịch sử WC (vs Pháp 1930). Bị loại vòng bảng Qatar 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Raúl Rangel (Chivas)",
+          "Guillermo Ochoa (AEL Limassol)",
+          "Carlos Acevedo (Santos Laguna)"
+        ],
+        "Hậu vệ": [
+          "Jorge Sánchez (PAOK)",
+          "Israel Reyes (América)",
+          "César Montes (Lokomotiv Moscow)",
+          "Johan Vásquez (Genoa)",
+          "Jesús Gallardo (Toluca)",
+          "Mateo Chávez (AZ Alkmaar)",
+          "Edson Álvarez (Fenerbahçe)"
+        ],
+        "Tiền vệ": [
+          "Erik Lira (Cruz Azul)",
+          "Orbelín Pineda (AEK Athens)",
+          "Álvaro Fidalgo (Real Betis)",
+          "Brian Gutiérrez (Chivas)",
+          "Luis Romo (Chivas)",
+          "Obed Vargas (Atlético Madrid)",
+          "Gilberto Mora (Tijuana)",
+          "Luis Chávez (San Diego FC)"
+        ],
+        "Tiền đạo": [
+          "Roberto Alvarado (Chivas)",
+          "César Huerta (Anderlecht)",
+          "Alexis Vega (Toluca)",
+          "Julián Quiñones (Al-Qadsiah)",
+          "Guillermo Martínez (Pumas)",
+          "Armando González (Chivas)",
+          "Santiago Giménez (AC Milan)",
+          "Raúl Jiménez (Fulham)"
+        ]
+      },
+      "keyPlayers": [
+        "Raúl Jiménez (Fulham) - sát thủ veteran, 9/22 bàn của El Tri năm 2025, có thể là WC cuối",
+        "Gilberto Mora (17, Tijuana) - tiền vệ trẻ xuất sắc nhất Mexico, được kỳ vọng tỏa sáng",
+        "Edson Álvarez (Fenerbahçe, ĐT) - thủ lĩnh phòng ngự, mỏ neo",
+        "Guillermo Ochoa (40) - huyền thoại, cứu thua thần kỳ ở 5 kỳ WC",
+        "Santiago Giménez (AC Milan) - số 9 trẻ"
+      ],
+      "prediction": "Mục tiêu hiện thực: đứng đầu bảng A và vào tứ kết. Lợi thế sân Azteca + độ cao 2.250m. Vào bán kết là kỳ tích lớn nhất kể từ 1986. Tỷ lệ ~+6600.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "RSA": {
+      "code": "RSA",
+      "name": "Nam Phi",
+      "nick": "Bafana Bafana",
+      "flag": "🇿🇦",
+      "group": "A",
+      "conf": "CAF",
+      "fifa": 60,
+      "coach": "Hugo Broos (Bỉ, từ 5/2021 — VĐ AFCON 2017 với Cameroon)",
+      "captain": "Ronwen Williams (Mamelodi Sundowns)",
+      "stadium": "Soccer City / FNB Stadium (Johannesburg)",
+      "summary": "Đá trận KHAI MẠC WC 2026 vs Mexico tại Azteca. Trở lại sau 16 năm. Thủ môn Williams đẳng cấp châu Phi. Lõi cốt từ Mamelodi Sundowns (CLB tốt nhất châu Phi).",
+      "qualification": "Vòng loại CAF bảng C: đứng đầu, vé tự động (loại Nigeria nhờ hiệu số). AFCON 2023: hạng 3. Hòa Panama giao hữu 3/2026.",
+      "wcHistory": "4 lần dự (1998, 2002, 2010 chủ nhà, 2026). Chưa từng vượt vòng bảng. Đội chủ nhà ĐẦU TIÊN bị loại vòng bảng (2010, dù thắng Pháp 2-1). VĐ AFCON 1996.",
+      "squad": {
+        "Thủ môn": [
+          "Ronwen Williams (Mamelodi Sundowns)",
+          "Ricardo Goss",
+          "Sipho Chaine"
+        ],
+        "Hậu vệ": [
+          "Aubrey Modiba (Mamelodi Sundowns)",
+          "Khuliso Mudau (Mamelodi Sundowns)",
+          "Khulumani Ndamane",
+          "Kamogelo Sebelebele",
+          "Nkosinathi Sibisi",
+          "Bradley Cross",
+          "Samukele Kabini",
+          "Olwethu Makhanya",
+          "Thabang Matuludi",
+          "Mbekezeli Mbokazi",
+          "Ime Okon (Antwerp)"
+        ],
+        "Tiền vệ": [
+          "Oswin Appollis",
+          "Thalente Mbatha",
+          "Relebohile Mofokeng (Ajax Cape Town)",
+          "Jayden Adams",
+          "Teboho Mokoena (Mamelodi Sundowns)",
+          "Themba Zwane (Mamelodi Sundowns)",
+          "Sphephelo Sithole"
+        ],
+        "Tiền đạo": [
+          "Evidence Makgopa",
+          "Tshepang Moremi",
+          "Lyle Foster (Burnley)",
+          "Thapelo Maseko (Mamelodi Sundowns)",
+          "Iqraam Rayners (Mamelodi Sundowns)"
+        ]
+      },
+      "keyPlayers": [
+        "Ronwen Williams (Sundowns, ĐT) - thủ môn số 1 châu Phi, anh hùng penalty AFCON 2023 (cứu 4 quả)",
+        "Lyle Foster (Burnley, 25) - tiền đạo Premier League",
+        "Percy Tau (33) - đang chơi ở Việt Nam (Thể Công Nam Định), cựu Brighton & Anderlecht",
+        "Teboho Mokoena (Sundowns) - tiền vệ kiến thiết, 'lá phổi'",
+        "Themba Zwane (35) - veteran giữa sân"
+      ],
+      "prediction": "Bảng A dễ nhất giải: Mexico #1, Nam Phi tranh nhì với Hàn Quốc & Czechia. Mục tiêu: vượt vòng bảng lần đầu lịch sử. Trận khai mạc vs Mexico là thử lửa. Fox xếp ~#29.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "KOR": {
+      "code": "KOR",
+      "name": "Hàn Quốc",
+      "nick": "Taegeuk Warriors",
+      "flag": "🇰🇷",
+      "group": "A",
+      "conf": "AFC",
+      "fifa": 19,
+      "coach": "Hong Myung-bo (Hàn Quốc, từ 7/2023 — đội trưởng bán kết WC 2002)",
+      "captain": "Son Heung-min (LAFC, 34 — 143 caps kỷ lục)",
+      "stadium": "Seoul World Cup Stadium",
+      "summary": "11 kỳ WC liên tiếp từ 1986 (kỷ lục châu Á). 'Son's last dance'. Bộ ba Son–Lee Kang-in–Kim Min-jae đẳng cấp châu Âu, nhưng phong độ giao hữu 3/2026 đáng lo (thua CIV 0-4, Áo 0-1).",
+      "qualification": "Vòng 3 AFC: bất bại (6T 4H), đứng đầu bảng B. Nhưng giao hữu 3/2026 thảm họa khiến The Guardian xếp #44/48.",
+      "wcHistory": "12 lần dự. Tốt nhất: Hạng 4 năm 2002 (bán kết sân nhà, HLV Hiddink) — thành tích tốt nhất của một đội châu Á. Qatar 2022 vào 1/16 (thua Brazil 1-4).",
+      "squad": {
+        "Thủ môn": [
+          "Kim Seung-gyu (Al-Shabab)",
+          "Jo Hyeon-woo (Ulsan HD)",
+          "Song Bum-keun (Jeonbuk)"
+        ],
+        "Hậu vệ": [
+          "Kim Min-jae (Bayern Munich)",
+          "Kim Moon-hwan (Daejeon)",
+          "Seol Young-woo (Ulsan HD)",
+          "Cho Yu-min (Daejeon)",
+          "Lee Tae-seok (Daejeon)",
+          "Park Jin-seob (Jeonbuk)",
+          "Kim Tae-hyeon (Anderlecht)",
+          "Lee Han-beom (FC Seoul)",
+          "Jens Castrop (Nürnberg)",
+          "Lee Ki-hyuk (Gangwon)"
+        ],
+        "Tiền vệ": [
+          "Lee Jae-sung (Mainz)",
+          "Hwang Hee-chan (Wolves)",
+          "Hwang In-beom (Feyenoord)",
+          "Lee Kang-in (PSG)",
+          "Paik Seung-ho (Birmingham)",
+          "Kim Jin-gyu (Jeonbuk)",
+          "Lee Dong-gyeong (Gimcheon Sangmu)",
+          "Bae Jun-ho (Stoke City)",
+          "Eom Ji-sung (Swansea)",
+          "Yang Hyun-jun (Celtic)"
+        ],
+        "Tiền đạo": [
+          "Son Heung-min (LAFC)",
+          "Cho Gue-sung (FC Midtjylland)",
+          "Oh Hyeon-gyu (Genk)"
+        ]
+      },
+      "keyPlayers": [
+        "Son Heung-min (34, ĐT) - vĩ đại nhất lịch sử Hàn Quốc, 143 caps kỷ lục, 54 bàn, kỳ WC cuối",
+        "Kim Min-jae (Bayern, 30) - 'Monster', trung vệ châu Á hay nhất, VĐ Bundesliga 24-25",
+        "Lee Kang-in (PSG, 25) - vừa VĐ Ligue 1 + bán kết Champions League, số 10 wing trái",
+        "Hwang Hee-chan (Wolves) - tiền đạo nhanh nhẹn",
+        "Hwang In-beom (Feyenoord) - tiền vệ trung tâm phong độ cao"
+      ],
+      "prediction": "Mục tiêu thực tế: vòng 1/16. Phong độ giao hữu không cho phép kỳ vọng cao hơn. 3 trận đều đá ở Mexico (độ cao + nhiệt) là vấn đề. Trận mở màn vs Czechia quyết định.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-16"
+    },
+    "CZE": {
+      "code": "CZE",
+      "name": "Czechia",
+      "nick": "Národní tým",
+      "flag": "🇨🇿",
+      "group": "A",
+      "conf": "UEFA",
+      "fifa": 43,
+      "coach": "Miroslav Koubek (Czechia, 74, từ 12/2025 — bổ nhiệm gấp)",
+      "captain": "Tomáš Souček (West Ham)",
+      "stadium": "Eden Aréna (Praha)",
+      "summary": "Trở lại WC sau 20 năm (từ 2006). Set-piece đáng sợ (Souček, Schick). Bảng A được coi là dễ nhất giải. HLV 74 tuổi mới nhậm 6 tháng.",
+      "qualification": "Vòng bảng UEFA nhì → play-off Path D. Thắng Ireland penalty + Bulgaria giành vé (3/2026). Công bố sơ bộ 55 người 12/5.",
+      "wcHistory": "10 lần dự (gồm Tiệp Khắc). Tốt nhất: Á quân 1934 & 1962 (Tiệp Khắc). Czechia độc lập: loại vòng bảng 2006. 20 năm vắng mặt. Á quân Euro 1996.",
+      "squad": {
+        "Thủ môn": [
+          "Lukáš Horníček (Braga)",
+          "Matěj Kovář (Bayer Leverkusen)",
+          "Jindřich Staněk (Slavia Praha)"
+        ],
+        "Hậu vệ": [
+          "Vladimír Coufal (West Ham)",
+          "David Doudera (Slavia Praha)",
+          "Tomáš Holeš (Slavia Praha)",
+          "Robin Hranáč (Hoffenheim)",
+          "Štěpán Chaloupek",
+          "David Jurásek (PSV)",
+          "Ladislav Krejčí (Girona)",
+          "Jaroslav Zelený",
+          "David Zima (Torino)"
+        ],
+        "Tiền vệ": [
+          "Lukáš Červ",
+          "Vladimír Darida",
+          "Lukáš Provod (Slavia Praha)",
+          "Michal Sadílek (Twente)",
+          "Hugo Sochůrek",
+          "Alexandr Sojka",
+          "Tomáš Souček (West Ham)",
+          "Pavel Šulc (Lyon)",
+          "Denis Višinský"
+        ],
+        "Tiền đạo": [
+          "Adam Hložek (Hoffenheim)",
+          "Tomáš Chorý (Plzeň)",
+          "Mojmír Chytil",
+          "Jan Kuchta (Sparta Praha)",
+          "Patrik Schick (Bayer Leverkusen)"
+        ]
+      },
+      "keyPlayers": [
+        "Tomáš Souček (West Ham, 31, ĐT) - mỏ neo 1m92, ghi bàn từ set-piece, thủ lĩnh",
+        "Patrik Schick (Bayer Leverkusen) - vua phá lưới Euro 2020 (5 bàn), sắc bén Bundesliga",
+        "Adam Hložek (Hoffenheim, 23) - tiền đạo trẻ đa năng",
+        "Vladimír Coufal (West Ham) - hậu vệ phải cứng rắn",
+        "Ladislav Krejčí (Girona) - trung vệ La Liga"
+      ],
+      "prediction": "Bảng A dễ nhất giải: Mexico #1, Nam Phi/Hàn/Czechia tranh nhì-ba. Trận vs Hàn Quốc mở màn quyết định lớn. Mục tiêu: vòng 1/16 - tốt nhất kể từ độc lập. Mạnh set-piece. Fox xếp ~#33.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "CAN": {
+      "code": "CAN",
+      "name": "Canada",
+      "nick": "Les Rouges",
+      "flag": "🇨🇦",
+      "group": "B",
+      "conf": "CONCACAF",
+      "fifa": 30,
+      "host": true,
+      "coach": "Jesse Marsch (Mỹ, từ 5/2024 — cựu RB Leipzig, Leeds United)",
+      "captain": "Alphonso Davies (Bayern Munich)",
+      "stadium": "BMO Field (Toronto)",
+      "summary": "Đồng chủ nhà — lần đầu đăng cai trong lịch sử. Tiến bộ vượt bậc dưới Marsch (từ #49 lên #26). Mục tiêu: chiến thắng & vượt vòng bảng lần đầu lịch sử.",
+      "qualification": "Vé tự động (đồng chủ nhà). Giao hữu 3/2026: hòa Tunisia 0-0. Leo từ #49 lên #26 (cao nhất lịch sử) trong 14 tháng.",
+      "wcHistory": "3 lần dự (1986, 2022, 2026). Chưa từng thắng/ghi bàn tại WC 1986. Davies ghi bàn WC đầu tiên trong lịch sử Canada (vs Croatia 2022).",
+      "squad": {
+        "Thủ môn": [
+          "Dayne St. Clair (Minnesota United)",
+          "Maxime Crépeau (Portland Timbers)",
+          "Owen Goodman"
+        ],
+        "Hậu vệ": [
+          "Alistair Johnston (Celtic)",
+          "Derek Cornelius (Marseille)",
+          "Richie Laryea (Toronto FC)",
+          "Niko Sigur",
+          "Joel Waterman (CF Montréal)",
+          "Luc de Fougerolles (Fulham)",
+          "Moïse Bombito (Nice)",
+          "Alphonso Davies (Bayern Munich)",
+          "Alfie Jones"
+        ],
+        "Tiền vệ": [
+          "Stephen Eustáquio (Porto)",
+          "Ismaël Koné (Sassuolo)",
+          "Tajon Buchanan (Villarreal)",
+          "Mathieu Choinière (CF Montréal)",
+          "Ali Ahmed (Vancouver Whitecaps)",
+          "Nathan Saliba (Anderlecht)",
+          "Liam Millar (Hull City)",
+          "Jacob Shaffelburg (Nashville SC)",
+          "Jonathan Osorio (Toronto FC)"
+        ],
+        "Tiền đạo": [
+          "Jonathan David (Juventus)",
+          "Cyle Larin (Mallorca)",
+          "Tani Oluwaseyi (Villarreal)",
+          "Promise David (Union SG)"
+        ]
+      },
+      "keyPlayers": [
+        "Alphonso Davies (Bayern Munich, ĐT) - hậu vệ trái nhanh nhất thế giới (36.51 km/h), biểu tượng Canada",
+        "Jonathan David (Juventus) - chân sút số 1 lịch sử Canada (36 bàn/67 trận), vừa chuyển nhượng kỷ lục",
+        "Stephen Eustáquio (Porto) - tiền vệ đẳng cấp Champions League, kiến trúc sư lối chơi",
+        "Tajon Buchanan (Villarreal) - tiền vệ cánh tốc độ, sáng tạo"
+      ],
+      "prediction": "Bảng B vừa sức. Mục tiêu: chiến thắng đầu tiên lịch sử WC + vượt vòng bảng. Lợi thế sân nhà (Toronto, Vancouver). Thắng Qatar và Bosnia → cơ hội vào 1/8 rất sáng.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "BIH": {
+      "code": "BIH",
+      "name": "Bosnia & Herzegovina",
+      "nick": "Zmajevi",
+      "flag": "🇧🇦",
+      "group": "B",
+      "conf": "UEFA",
+      "fifa": 28,
+      "coach": "Sergej Barbarez (Bosnia, từ 4/2024 — cựu tiền đạo ĐTQG, huyền thoại Hamburg)",
+      "captain": "Edin Džeko (Schalke 04, 40)",
+      "stadium": "Stadion Bilino Polje (Zenica)",
+      "summary": "Trở lại WC sau 12 năm — loại Italy ở play-off (Italy lần 3 liên tiếp vắng WC). Đội ĐẦU TIÊN công bố đội hình 26 chính thức (11/5). Kỳ WC cuối của Džeko (40).",
+      "qualification": "Vòng loại UEFA bảng H: nhì sau Áo → play-off. Thắng Italy 4-1 penalty (31/3/2026) tại Zenica - lịch sử. Džeko ghi 6 bàn/8 trận gần đây.",
+      "wcHistory": "2 lần dự (2014, 2026). WC 2014: thắng Iran 3-1 (Džeko ghi bàn), thua Argentina & Nigeria. Độc lập từ Nam Tư 1992. Chưa từng dự Euro.",
+      "official": true,
+      "squad": {
+        "Thủ môn": [
+          "Nikola Vasilj (St. Pauli)",
+          "Martin Zlomislić (Rijeka)",
+          "Osman Hadžikić (Slaven Belupo)"
+        ],
+        "Hậu vệ": [
+          "Sead Kolašinac (Atalanta)",
+          "Dennis Hadžikadunić (Samsunspor)",
+          "Amar Dedić (Benfica)",
+          "Nikola Katić (Schalke 04)",
+          "Tarik Muharemović (Sassuolo)",
+          "Nihad Mujakić (Kasımpaşa)",
+          "Stjepan Radeljić (Bačka Topola)",
+          "Nidal Ćelik (Olimpik Sarajevo)"
+        ],
+        "Tiền vệ": [
+          "Amir Hadžiahmetović (Beşiktaş)",
+          "Benjamin Tahirović (Brøndby)",
+          "Armin Gigović (Rostov)",
+          "Dženis Burnić (Karlsruher SC)",
+          "Ivan Bašić (Borac Banja Luka)",
+          "Esmir Bajraktarević (New England)",
+          "Amar Memić (Viktoria Plzeň)",
+          "Ivan Šunjić (Las Palmas)",
+          "Kerim Alajbegović (RB Salzburg)",
+          "Ermin Mahmić (Slovan Liberec)"
+        ],
+        "Tiền đạo": [
+          "Edin Džeko (Schalke 04)",
+          "Ermedin Demirović (Stuttgart)",
+          "Samed Baždar (Jagiellonia)",
+          "Haris Tabaković (M'gladbach)",
+          "Jovo Lukić (U. Cluj)"
+        ]
+      },
+      "keyPlayers": [
+        "Edin Džeko (Schalke 04, 40, ĐT) - vĩ đại nhất lịch sử Bosnia, vua phá lưới ĐT 70+ bàn, cựu Man City/Roma/Inter, kỳ WC cuối",
+        "Ermedin Demirović (Stuttgart) - vừa VĐ DFB-Pokal, người kế nhiệm Džeko",
+        "Sead Kolašinac (Atalanta) - hậu vệ trái veteran, cựu Arsenal",
+        "Esmir Bajraktarević (New England) - anh hùng penalty playoff vs Italy",
+        "Edin Višća (Trabzonspor) - tiền vệ công kỹ thuật"
+      ],
+      "prediction": "Bảng B: Thụy Sĩ #1, Canada #2 (sân nhà). Bosnia tranh #3 với Qatar. Trận vs Canada mở màn quyết định. Mục tiêu: vòng 1/16 qua hạng 3 tốt. Đội hình đã chính thức công bố 11/5.",
+      "officialDate": "2026-05-11",
+      "detail": true
+    },
+    "QAT": {
+      "code": "QAT",
+      "name": "Qatar",
+      "nick": "Al-Annabi",
+      "flag": "🇶🇦",
+      "group": "B",
+      "conf": "AFC",
+      "fifa": 51,
+      "coach": "Julen Lopetegui / chuyển đổi HLV (TBN)",
+      "captain": "Hassan Al-Haydos (Al-Sadd)",
+      "stadium": "Lusail Stadium (sân CK WC 2022)",
+      "summary": "Cựu chủ nhà WC 2022 (bị loại với 0 điểm). VĐ Asian Cup 2 lần liên tiếp (2019, 2023). Thế hệ Aspire Academy. Akram Afif là MVP Asian Cup 2023.",
+      "qualification": "Vòng 4 AFC: đứng đầu bảng A (hòa UAE, thắng Oman) giành vé tự động. VĐ Asian Cup 2023 (sân nhà, CK thắng Jordan 3-1).",
+      "wcHistory": "2 lần dự (2022 chủ nhà, 2026). WC 2022: đội chủ nhà đầu tiên từ 1934 thua trận mở màn + loại vòng bảng 0 điểm. VĐ Asian Cup 2019 & 2023.",
+      "squad": {
+        "Thủ môn": [
+          "Salah Zakaria",
+          "Meshaal Barsham (Al-Sadd)",
+          "Mahmoud Abunada"
+        ],
+        "Hậu vệ": [
+          "Boualem Khoukhi (Al-Arabi)",
+          "Pedro Miguel",
+          "Sultan Al-Brake",
+          "Al Hashmi Al Hussain",
+          "Ayoub Al-Alawi",
+          "Issa Laye",
+          "Lucas Mendes",
+          "Homam Al-Amin"
+        ],
+        "Tiền vệ": [
+          "Ahmed Fathi",
+          "Jassim Gaber",
+          "Assim Madibo (Al-Duhail)",
+          "Abdulaziz Hatem (Al-Rayyan)",
+          "Karim Boudiaf (Al-Duhail)",
+          "Mohammed Mannai"
+        ],
+        "Tiền đạo": [
+          "Almoez Ali (Al-Duhail)",
+          "Akram Afif (Al-Sadd)",
+          "Tahsin Mohammed",
+          "Edmilson Junior",
+          "Ahmed Al-Janehi",
+          "Ahmed Alaa",
+          "Hassan Al-Haydos (Al-Sadd)",
+          "Mohammed Muntari",
+          "Yusuf Abdurisag"
+        ]
+      },
+      "keyPlayers": [
+        "Akram Afif (Al-Sadd) - MVP Asian Cup 2023, ghi 8 bàn (kỷ lục), tiền vệ tấn công kỹ thuật",
+        "Almoez Ali (Al-Duhail) - vua phá lưới Asian Cup 2019 (9 bàn, vượt kỷ lục Ali Daei), số 9 chính",
+        "Hassan Al-Haydos (ĐT) - kỷ lục gia caps Qatar",
+        "Boualem Khoukhi - trung vệ chỉ huy, gốc Algeria",
+        "Meshaal Barsham (Al-Sadd) - thủ môn số 1"
+      ],
+      "prediction": "Bảng B: Canada (chủ nhà), Thụy Sĩ, Bosnia đều mạnh hơn. Mục tiêu: giành điểm (bất kỳ điểm nào cũng là tiến bộ so với 0 điểm WC 2022). Trận vs Thụy Sĩ mở màn & Bosnia cuối là cơ hội. Fox xếp #41.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "SUI": {
+      "code": "SUI",
+      "name": "Thụy Sĩ",
+      "nick": "Nati",
+      "flag": "🇨🇭",
+      "group": "B",
+      "conf": "UEFA",
+      "fifa": 20,
+      "detail": true,
+      "coach": "Murat Yakin",
+      "captain": "Granit Xhaka (Bayer Leverkusen, 33)",
+      "stadium": "St. Jakob-Park (Basel)",
+      "summary": "Lần dự WC thứ 13, 7 kỳ liên tiếp từ 2006. \"Máy vào vòng knockout\" — vào 1/16 ở 3 WC gần nhất.",
+      "qualification": "Đứng đầu bảng vòng loại UEFA, giành vé tự động sau khi hòa Kosovo 1-1.",
+      "wcHistory": "13 lần dự. Tốt nhất: Tứ kết (1934, 1938, 1954). Qatar 2022 thua BĐN 1-6 ở vòng 1/16.",
+      "squad": {
+        "Thủ môn": [
+          "Marvin Keller (Young Boys)",
+          "Gregor Kobel (Dortmund)",
+          "Yvon Mvogo (Lorient)"
+        ],
+        "Hậu vệ": [
+          "Manuel Akanji (Inter Milan)",
+          "Aurèle Amenda (Eintracht Frankfurt)",
+          "Eray Cömert (Las Palmas)",
+          "Nico Elvedi (M'gladbach)",
+          "Luca Jaquez (Lucerne)",
+          "Miro Muheim (St. Pauli)",
+          "Ricardo Rodríguez (Real Betis)",
+          "Silvan Widmer (Mainz)"
+        ],
+        "Tiền vệ": [
+          "Michel Aebischer (Pisa)",
+          "Christian Fassnacht (YB)",
+          "Remo Freuler (Bologna)",
+          "Ardon Jashari (AC Milan)",
+          "Johan Manzambi (Freiburg)",
+          "Fabian Rieder (Stuttgart)",
+          "Djibril Sow (Sevilla)",
+          "Rubén Vargas (Sevilla)",
+          "Granit Xhaka (Sunderland)",
+          "Denis Zakaria (Monaco)"
+        ],
+        "Tiền đạo": [
+          "Zeki Amdouni (Benfica)",
+          "Breel Embolo (Rennes)",
+          "Cédric Itten (YB)",
+          "Dan Ndoye (Nottingham Forest)",
+          "Noah Okafor (Leeds)"
+        ]
+      },
+      "keyPlayers": [
+        "Granit Xhaka (33, đội trưởng) - thủ lĩnh, cựu Arsenal, vô địch Bundesliga bất bại 2024",
+        "Manuel Akanji - trung vệ top châu Âu, cựu Man City",
+        "Yann Sommer (37) - thủ môn veteran, vô địch Serie A",
+        "Breel Embolo - tiền đạo big-game",
+        "Xherdan Shaqiri (34) - có thể là kỳ WC cuối, vẫn đá phạt đỉnh cao"
+      ],
+      "prediction": "Mục tiêu thực tế: vòng 1/16 lần thứ 4 liên tiếp. Tứ kết sẽ là kỳ tích. Tranh ngôi nhì bảng với Canada.",
+      "official": true,
+      "officialDate": "2026-05-20"
+    },
+    "BRA": {
+      "code": "BRA",
+      "name": "Brazil",
+      "nick": "Seleção",
+      "flag": "🇧🇷",
+      "group": "C",
+      "conf": "CONMEBOL",
+      "fifa": null,
+      "detail": true,
+      "coach": "Carlo Ancelotti",
+      "captain": "—",
+      "stadium": "Maracanã (Rio de Janeiro)",
+      "summary": "5 lần vô địch WC (kỷ lục). Đội hình 26 công bố 18/5 tại Museu do Amanhã: Neymar TRỞ LẠI sau 2.5 năm, Rodrygo & Estêvão bị loại sốc do chấn thương.",
+      "wcHistory": "Vô địch 5 lần (1958, 1962, 1970, 1994, 2002). Đội duy nhất dự đủ mọi kỳ WC.",
+      "squad": {
+        "Thủ môn": [
+          "Alisson (Liverpool)",
+          "Ederson (Fenerbahçe)",
+          "Weverton (Grêmio)"
+        ],
+        "Hậu vệ": [
+          "Marquinhos (PSG)",
+          "Danilo (Flamengo)",
+          "Alex Sandro (Flamengo)",
+          "Gabriel Magalhães (Arsenal)",
+          "Bremer (Juventus)",
+          "Wesley (AS Roma)",
+          "Roger Ibañez (Al-Ahli)",
+          "Douglas Santos (Zenit)",
+          "Léo Pereira (Flamengo)"
+        ],
+        "Tiền vệ": [
+          "Casemiro (Man United)",
+          "Lucas Paquetá (West Ham)",
+          "Bruno Guimarães (Newcastle)",
+          "Fabinho (Al-Ittihad)",
+          "Danilo (Nottingham Forest)"
+        ],
+        "Tiền đạo": [
+          "Neymar (Santos)",
+          "Vinícius Júnior (Real Madrid)",
+          "Raphinha (Barcelona)",
+          "Gabriel Martinelli (Arsenal)",
+          "Matheus Cunha (Man United)",
+          "Endrick (Lyon, mượn từ Real Madrid)",
+          "Luiz Henrique (Zenit)",
+          "Igor Thiago (Brentford)",
+          "Rayan (Bournemouth)"
+        ]
+      },
+      "keyPlayers": [
+        "Neymar - trở lại sau chấn thương dài",
+        "Vinícius Júnior (Real Madrid)",
+        "Raphinha (Barcelona)"
+      ],
+      "prediction": "Ứng viên vô địch dù mất Rodrygo, Militão, Estêvão vì chấn thương.",
+      "official": true,
+      "officialDate": "2026-05-18"
+    },
+    "MAR": {
+      "code": "MAR",
+      "name": "Morocco",
+      "nick": "Atlas Lions",
+      "flag": "🇲🇦",
+      "group": "C",
+      "conf": "CAF",
+      "fifa": 8,
+      "coach": "Mohamed Ouahbi (Maroc, từ 3/2026)",
+      "captain": "Achraf Hakimi (PSG)",
+      "stadium": "Prince Moulay Abdellah (Rabat)",
+      "summary": "Bán kết 2022 - thành tích tốt nhất lịch sử châu Phi. FIFA #8 cao nhất lịch sử. Dark horse #1. Lõi cốt 2022 còn nguyên + bổ sung Brahim Diaz.",
+      "qualification": "Vòng loại CAF bảng E: thắng toàn bộ, hơn 2 vòng. AFCON 2025 (chủ nhà) vô địch sau khi CAF trao lại danh hiệu.",
+      "wcHistory": "7 lần dự. Bán kết 2022 - đội châu Phi & Ả Rập đầu tiên đến bán kết WC. Loại Bỉ, TBN, BĐN năm 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Yassine Bounou (Al-Hilal)",
+          "Munir El Kajoui",
+          "Ahmed Reda Tagnaouti"
+        ],
+        "Hậu vệ": [
+          "Noussair Mazraoui (Man United)",
+          "Anass Salah-Eddine (AS Roma)",
+          "Youssef Bellammari",
+          "Achraf Hakimi (PSG)",
+          "Zakaria El Ouahdi (Genk)",
+          "Nayef Aguerd (Real Sociedad)",
+          "Chadi Riad (Crystal Palace)",
+          "Redouane Halhal",
+          "Issa Diop (Lens)"
+        ],
+        "Tiền vệ": [
+          "Samir El Mourabet",
+          "Ayoub Bouaddi (Lille)",
+          "Neil El Aynaoui (AS Roma)",
+          "Sofyan Amrabat (Real Betis)",
+          "Azzedine Ounahi (Girona)",
+          "Bilal El Khannouss (VfB Stuttgart)",
+          "Ismaël Saibari (PSV)"
+        ],
+        "Tiền đạo": [
+          "Abde Ezzalzouli (Real Betis)",
+          "Chemsdine Talbi (Club Brugge)",
+          "Soufiane Rahimi (Al-Ain)",
+          "Ayoub El Kaabi (Olympiacos)",
+          "Brahim Díaz (Real Madrid)",
+          "Yassine Gessim",
+          "Ayoube Amaimouni-Echghouyab"
+        ]
+      },
+      "keyPlayers": [
+        "Achraf Hakimi (28, ĐT) - hậu vệ phải hay nhất thế giới, ghi bàn CK & BK Champions League 2025",
+        "Brahim Díaz (Real Madrid) - tiền vệ tấn công, não bộ sáng tạo",
+        "Yassine Bounou (Al-Hilal) - anh hùng penalty WC 2022 vs TBN",
+        "Youssef En-Nesyri (Fenerbahçe) - ghi bàn quyết định tứ kết vs BĐN 2022",
+        "Bilal El Khannouss (Stuttgart, 21) - thần đồng"
+      ],
+      "prediction": "Tứ kết - tái hiện 2022 hoặc tiến sâu hơn. Dark horse lớn nhất. HLV mới nhậm 3 tháng trước là điểm lo. Tỷ lệ ~+5000.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "SCO": {
+      "code": "SCO",
+      "name": "Scotland",
+      "nick": "Tartan Army",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "group": "C",
+      "conf": "UEFA",
+      "fifa": 39,
+      "coach": "Steve Clarke (Scotland, từ 5/2019 — cựu trợ lý Chelsea)",
+      "captain": "Andy Robertson (Liverpool)",
+      "stadium": "Hampden Park (Glasgow)",
+      "summary": "Trở lại WC sau 28 năm (từ 1998). 'Đội dự WC nhiều nhất mà chưa từng vào knockout'. McTominay phong độ đỉnh cao sau khi VĐ Serie A. CDV Tartan Army cuồng nhiệt.",
+      "qualification": "Vòng loại UEFA bảng C: đứng đầu (hơn Đan Mạch hiệu số) - lần đầu đứng đầu vòng loại từ 1998. Euro 2024 loại vòng bảng (1 điểm).",
+      "wcHistory": "9 lần dự, chưa từng vượt vòng bảng (kỷ lục buồn). WC 1978 thắng Hà Lan 3-2 (Gemmill) nhưng vẫn loại. 28 năm vắng mặt từ 1998.",
+      "squad": {
+        "Thủ môn": [
+          "Angus Gunn (Nottingham Forest)",
+          "Craig Gordon (Hearts)",
+          "Liam Kelly (Rangers)"
+        ],
+        "Hậu vệ": [
+          "Andy Robertson (Liverpool)",
+          "Kieran Tierney (Celtic)",
+          "Anthony Ralston (Celtic)",
+          "John Souttar (Rangers)",
+          "Scott McKenna (Las Palmas)",
+          "Jack Hendry (Al-Ettifaq)",
+          "Aaron Hickey (Brentford)",
+          "Nathan Patterson (Everton)",
+          "Grant Hanley (Birmingham)",
+          "Dominic Hyam (Blackburn)"
+        ],
+        "Tiền vệ": [
+          "Scott McTominay (Napoli)",
+          "Billy Gilmour (Napoli)",
+          "John McGinn (Aston Villa)",
+          "Kenny McLean (Norwich)",
+          "Lewis Ferguson (Bologna)",
+          "Ryan Christie (Bournemouth)",
+          "Findlay Curtis (Rangers)",
+          "Ben Gannon-Doak (Bournemouth)"
+        ],
+        "Tiền đạo": [
+          "Lawrence Shankland (Hearts)",
+          "George Hirst (Ipswich)",
+          "Che Adams (Torino)",
+          "Ross Stewart (Falkirk)",
+          "Lyndon Dykes (Birmingham)"
+        ]
+      },
+      "keyPlayers": [
+        "Scott McTominay (Napoli, 29) - VĐ Serie A 24-25 + Player of the Season, box-to-box ghi 12 bàn",
+        "Andy Robertson (Liverpool, 32, ĐT) - VĐ PL 24-25 + Champions League 2019, kỷ lục caps Scotland",
+        "John McGinn (Aston Villa) - não bộ tấn công, 30+ bàn ĐTQG",
+        "Kieran Tierney (Celtic) - hậu vệ trái đẳng cấp, cựu Arsenal",
+        "Ben Doak (Bournemouth, 20) - tài năng trẻ hệ Liverpool"
+      ],
+      "prediction": "Bảng C khó (Brazil + Morocco top). Scotland tranh nhì-ba với Haiti. Trận vs Haiti mở màn quyết định. Mục tiêu: vượt vòng bảng lần đầu lịch sử (qua hạng 3 tốt). Fox xếp ~#34.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-19"
+    },
+    "HAI": {
+      "code": "HAI",
+      "name": "Haiti",
+      "nick": "Les Grenadiers",
+      "flag": "🇭🇹",
+      "group": "C",
+      "conf": "CONCACAF",
+      "fifa": 83,
+      "coach": "Sébastien Migné (Pháp — từng dẫn Kenya, Congo)",
+      "captain": "Johny Placide (SC Bastia)",
+      "stadium": "Sân trung lập (khủng hoảng an ninh trong nước)",
+      "summary": "Trở lại WC sau 52 năm — đội Caribe duy nhất từng dự WC. Khủng hoảng an ninh khiến đội không đá trận sân nhà nào suốt vòng loại. Có vài ngôi sao Premier League.",
+      "qualification": "Vòng 3 CONCACAF bảng C: đứng đầu (3T 2H 1Th). Thắng Nicaragua 2-0 (đá ở Curaçao) giành vé. Đá mọi trận 'sân nhà' ở Cộng hòa Dominican & Curaçao.",
+      "wcHistory": "2 lần dự (1974, 2026). WC 1974 thua cả 3 nhưng Manno Sanon ghi bàn lịch sử vào lưới Dino Zoff (chấm dứt 1.143 phút bất bại). VĐ CONCACAF 1973. Bán kết Gold Cup 2019.",
+      "squad": {
+        "Thủ môn": [
+          "Johny Placide (SC Bastia)",
+          "Alexandre Pierre (Sochaux)",
+          "Josué Duverger (Le Mans)"
+        ],
+        "Hậu vệ": [
+          "Ricardo Adé (LDU Quito)",
+          "Carlens Arcus (Angers)",
+          "Martin Experience (Real Salt Lake)",
+          "Jean-Kévin Duverne (Gent)",
+          "Duke Lacroix (Charleston)",
+          "Wilguens Paugain (Zulte Waregem)",
+          "Hannes Delcroix (Lugano)",
+          "Keeto Thermoncy (Cavalry FC)"
+        ],
+        "Tiền vệ": [
+          "Léverton Pierre (Tampa Bay Rowdies)",
+          "Danley Jean Jacques (Philadelphia Union)",
+          "Carl Sainté (Beerschot)",
+          "Jean-Ricner Bellegarde (Wolves)",
+          "Woodensky Pierre (Real Salt Lake)",
+          "Dominique Simon (Le Mans)"
+        ],
+        "Tiền đạo": [
+          "Duckens Nazon (Sepahan)",
+          "Frantzdy Pierrot (Amadora)",
+          "Derrick Etienne Jr. (Toronto FC)",
+          "Louicius Deedson (Famalicão)",
+          "Ruben Providence (Estrela Amadora)",
+          "Josué Casimir (Auxerre)",
+          "Yassin Fortuné (Le Havre)",
+          "Wilson Isidor (Sunderland)",
+          "Lenny Joseph (Guingamp)"
+        ]
+      },
+      "keyPlayers": [
+        "Jean-Ricner Bellegarde (Wolverhampton, 28) - ngôi sao Premier League, tiền vệ tấn công sáng tạo, cầm trịch lối chơi",
+        "Wilson Isidor (Sunderland) - tiền đạo vừa lên Premier League từ Championship",
+        "Duckens Nazon - chân sút số 1 lịch sử Haiti, hiện ở Iran",
+        "Hannes Delcroix (Lugano) - trung vệ gốc Bỉ, cựu Anderlecht & Burnley",
+        "Johny Placide (ĐT) - thủ môn veteran"
+      ],
+      "prediction": "Bảng C khó nhất (Brazil ứng viên VĐ, Morocco bán kết 2022). Scotland là đối thủ cân sức nhất. Mục tiêu: thắng Scotland trận mở màn = chiến thắng WC đầu tiên trong lịch sử. Lo: không có sân nhà, kinh nghiệm gần zero.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-15"
+    },
+    "USA": {
+      "code": "USA",
+      "name": "Hoa Kỳ",
+      "nick": "USMNT",
+      "flag": "🇺🇸",
+      "group": "D",
+      "conf": "CONCACAF",
+      "fifa": 16,
+      "host": true,
+      "coach": "Mauricio Pochettino (Argentina, từ 9/2024)",
+      "captain": "Christian Pulisic (AC Milan)",
+      "stadium": "Linh hoạt (mở màn tại SoFi Stadium, LA)",
+      "summary": "Đồng chủ nhà, lần dự WC thứ 12. Pochettino đặt mục tiêu công khai bán kết, nhưng giao hữu 3/2026 thua cả Bỉ lẫn BĐN gây lo ngại.",
+      "qualification": "Vé tự động (chủ nhà). Pochettino thử gần 60 cầu thủ nhưng liên tục thua các đội top 10.",
+      "wcHistory": "11 lần dự. Tốt nhất: Hạng 3 năm 1930 (kỳ WC đầu tiên). Hạ Anh 1-0 năm 1950 (cú sốc lịch sử). Qatar 2022 vào 1/8 (thua Hà Lan 1-3). Chủ nhà lần 2 sau 1994.",
+      "squad": {
+        "Thủ môn": [
+          "Chris Brady (Chicago Fire)",
+          "Matt Freese (NYCFC)",
+          "Matt Turner (New England Revolution)"
+        ],
+        "Hậu vệ": [
+          "Max Arfsten (Columbus Crew)",
+          "Sergiño Dest (PSV Eindhoven)",
+          "Alex Freeman (Villarreal)",
+          "Mark McKenzie (Toulouse)",
+          "Tim Ream (Charlotte FC)",
+          "Chris Richards (Crystal Palace)",
+          "Antonee Robinson (Fulham)",
+          "Miles Robinson (FC Cincinnati)",
+          "Joe Scally (Mönchengladbach)",
+          "Auston Trusty (Celtic)"
+        ],
+        "Tiền vệ": [
+          "Tyler Adams (Bournemouth)",
+          "Sebastian Berhalter (Vancouver Whitecaps)",
+          "Weston McKennie (Juventus)",
+          "Cristian Roldan (Seattle Sounders)",
+          "Brenden Aaronson (Leeds)",
+          "Christian Pulisic (AC Milan)",
+          "Gio Reyna (Mönchengladbach)",
+          "Malik Tillman (Bayer Leverkusen)",
+          "Tim Weah (Marseille)",
+          "Alejandro Zendejas (América)"
+        ],
+        "Tiền đạo": [
+          "Folarin Balogun (Monaco)",
+          "Ricardo Pepi (PSV Eindhoven)",
+          "Haji Wright (Coventry City)"
+        ]
+      },
+      "keyPlayers": [
+        "Christian Pulisic (AC Milan, ĐT) - linh hồn đội, kém kỷ lục ghi bàn Mỹ 2 bàn",
+        "Folarin Balogun (Monaco) - tiền đạo cắm hàng đầu Ligue 1",
+        "Antonee Robinson (Fulham) - hậu vệ trái tốt nhất Premier League 2 mùa gần đây",
+        "Weston McKennie (Juventus) - tiền vệ box-to-box, 'lá phổi' của đội"
+      ],
+      "prediction": "Bảng D vừa sức (Paraguay, Úc, Thổ Nhĩ Kỳ) nên khả năng vượt vòng bảng cao. Mục tiêu bán kết của Pochettino bị nghi ngờ sau 2 thua. Vòng 1/8 - tứ kết là hợp lý nhất.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "PAR": {
+      "code": "PAR",
+      "name": "Paraguay",
+      "nick": "La Albirroja",
+      "flag": "🇵🇾",
+      "group": "D",
+      "conf": "CONMEBOL",
+      "fifa": 38,
+      "coach": "Gustavo Alfaro (Argentina, từ 5/2024 — từng đưa Ecuador vào WC 2022)",
+      "captain": "Gustavo Gómez (Palmeiras)",
+      "stadium": "Estadio Defensores del Chaco (Asunción)",
+      "summary": "Trở lại WC sau 16 năm. Bóng đá phòng ngự truyền thống — 'một trong những đội phòng ngự tốt nhất thế giới'. Hồi sinh ngoạn mục cuối vòng loại dưới Alfaro.",
+      "qualification": "Đứng thứ 6 CONMEBOL, giành vé trực tiếp giờ chót. Thắng Uruguay + Mexico + Hy Lạp chuỗi 3 trận. Copa America 2024 không thắng trận nào (khủng hoảng cũ).",
+      "wcHistory": "9 lần dự. Tốt nhất: Tứ kết 2010 (thua TBN 0-1, đội sau đó vô địch). Vắng WC 2014, 2018, 2022 — 16 năm đói khát.",
+      "squad": {
+        "Thủ môn": [
+          "Orlando Gill",
+          "Roberto Fernández (Bahia)",
+          "Gastón Olveira"
+        ],
+        "Hậu vệ": [
+          "Juan Cáceres (Vélez Sarsfield)",
+          "Gustavo Velázquez",
+          "Gustavo Gómez (Palmeiras)",
+          "Junior Alonso (Krasnodar)",
+          "José Canale",
+          "Omar Alderete (Sunderland)",
+          "Alexandro Maidana",
+          "Fabián Balbuena (Internacional)"
+        ],
+        "Tiền vệ": [
+          "Diego Gómez (Brighton)",
+          "Mauricio Magalhães",
+          "Damián Bobadilla (São Paulo)",
+          "Braian Ojeda (Real Salt Lake)",
+          "Andrés Cubas (Vancouver Whitecaps)",
+          "Matías Galarza",
+          "Alejandro Gamarra"
+        ],
+        "Tiền đạo": [
+          "Gustavo Caballero",
+          "Ramón Sosa (Nottingham Forest)",
+          "Alex Arce (LDU Quito)",
+          "Isidro Pitta",
+          "Gabriel Ávalos",
+          "Miguel Almirón (Atlanta United)",
+          "Julio Enciso (Strasbourg)",
+          "Antonio Sanabria (Cremonese)"
+        ]
+      },
+      "keyPlayers": [
+        "Diego Gómez (Brighton, 23) - ngôi sao trẻ, tương lai Paraguay, tiền vệ tấn công đa năng",
+        "Julio Enciso (Strasbourg, 22) - tiền đạo cánh, hệ thống BlueCo (cùng Chelsea)",
+        "Miguel Almirón (Atlanta Utd, 32) - cựu Newcastle, người dẫn dắt, tốc độ",
+        "Gustavo Gómez (Palmeiras, ĐT) - trung vệ thủ lĩnh, chắc chắn",
+        "Omar Alderete (Sunderland) - hậu vệ vững vàng"
+      ],
+      "prediction": "Bảng D vừa sức (Mỹ, Thổ, Úc — không đội nào top). Vòng 1/16 khả thi với tư cách nhì/hạng 3. Thắng Mỹ trận mở màn sẽ là cú sốc của giải. Phòng ngự là điểm mạnh nhất.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "AUS": {
+      "code": "AUS",
+      "name": "Úc",
+      "nick": "Socceroos",
+      "flag": "🇦🇺",
+      "group": "D",
+      "conf": "AFC",
+      "fifa": 26,
+      "coach": "Tony Popovic (Úc, từ 9/2024 — cựu trung vệ Crystal Palace)",
+      "captain": "Mat Ryan (AS Roma, 34)",
+      "stadium": "Stadium Australia (Sydney)",
+      "summary": "6 kỳ WC liên tiếp từ 2006. Tinh thần 'không đầu hàng' đặc trưng Socceroos. Đội cuối cùng ở châu Á giành vé. Không có siêu sao nhưng kỷ luật.",
+      "qualification": "Đứng nhì bảng C vòng 3 AFC sau Nhật, giành vé khi thắng Saudi 2-1 (14/10/2025). 7T 2H 1Th. Thắng Curaçao + Trung Quốc giao hữu.",
+      "wcHistory": "7 lần dự (6 kỳ liên tiếp). Tốt nhất: vòng 1/16 (2006 Hiddink, 2022). WC 2006 thua Italy phút 90+5 (penalty Totti). WC 2022 vào 1/16, thua Argentina 1-2. VĐ Asian Cup 2015.",
+      "squad": {
+        "Thủ môn": [
+          "Patrick Beach",
+          "Paul Izzo",
+          "Mathew Ryan (AS Roma)"
+        ],
+        "Hậu vệ": [
+          "Aziz Behich (Melbourne City)",
+          "Jordan Bos (Westerlo)",
+          "Cameron Burgess (Ipswich)",
+          "Alessandro Circati (Parma)",
+          "Miloš Degenek",
+          "Jason Geria",
+          "Lucas Herrington",
+          "Jacob Italiano",
+          "Harry Souttar (Sheffield United)",
+          "Kai Trewin"
+        ],
+        "Tiền vệ": [
+          "Cameron Devlin (Hearts)",
+          "Ajdin Hrustić",
+          "Jackson Irvine (St. Pauli)",
+          "Connor Metcalfe (St. Pauli)",
+          "Aiden O'Neill (Standard Liège)",
+          "Paul Okon-Engstler"
+        ],
+        "Tiền đạo": [
+          "Nestory Irankunda (Watford)",
+          "Mathew Leckie (Melbourne City)",
+          "Awer Mabil",
+          "Mohamed Toure",
+          "Nishan Velupillay (Melbourne Victory)",
+          "Cristian Volpato (Sassuolo)",
+          "Tete Yengi"
+        ]
+      },
+      "keyPlayers": [
+        "Mat Ryan (AS Roma, 34, ĐT) - thủ môn veteran, cựu Brighton & Arsenal, kỳ WC cuối",
+        "Harry Souttar (Sheffield Utd, 1m98) - trung vệ tháp, 'lá chắn' WC 2022",
+        "Riley McGree (Middlesbrough) - tiền vệ tấn công sáng tạo",
+        "Aiden O'Neill (Standard Liège) - mỏ neo giữa sân",
+        "Mitchell Duke (Machida) - tiền đạo 'hustle', tinh thần Socceroo"
+      ],
+      "prediction": "Bảng D: Mỹ #1. Trận mở màn vs Thổ Nhĩ Kỳ quyết định. Mục tiêu: vòng 1/16 - tái hiện 2006 & 2022. Cả 3 đối thủ đều 'đánh được', cơ hội đi tiếp cao. Fox xếp #36.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "TUR": {
+      "code": "TUR",
+      "name": "Thổ Nhĩ Kỳ",
+      "nick": "Ay-Yıldızlılar",
+      "flag": "🇹🇷",
+      "group": "D",
+      "conf": "UEFA",
+      "fifa": 26,
+      "coach": "Vincenzo Montella (Ý, từ 9/2023 — cựu HLV AC Milan, Sevilla)",
+      "captain": "Hakan Çalhanoğlu (Inter Milan)",
+      "stadium": "Atatürk Olympic Stadium (Istanbul)",
+      "summary": "Trở lại WC sau 24 năm (từ hạng 3 năm 2002). Bộ đôi thần đồng Güler (Real) - Yıldız (Juve) là tương lai. Dark horse với DNA Ý của Montella.",
+      "qualification": "Vòng bảng UEFA nhì sau TBN (chỉ mất 4 điểm) → play-off thắng Romania + Slovakia. Euro 2024 vào tứ kết. Thắng Mỹ 2-0 & Bỉ giao hữu 3/2026.",
+      "wcHistory": "3 lần dự (1954, 2002, 2026). Tốt nhất: Hạng 3 năm 2002 (thắng Hàn Quốc tranh hạng 3). Şükür ghi bàn nhanh nhất lịch sử WC (11 giây). 24 năm vắng mặt.",
+      "squad": {
+        "Thủ môn": [
+          "Altay Bayındır (Man United)",
+          "Mert Günok (Beşiktaş)",
+          "Uğurcan Çakır (Galatasaray)"
+        ],
+        "Hậu vệ": [
+          "Abdülkerim Bardakcı (Galatasaray)",
+          "Çağlar Söyüncü (Fenerbahçe)",
+          "Eren Elmalı (Galatasaray)",
+          "Ferdi Kadıoğlu (Brighton)",
+          "Merih Demiral (Al-Ahli)",
+          "Mert Müldür (Fenerbahçe)",
+          "Ozan Kabak (Galatasaray)",
+          "Samet Akaydın (Fenerbahçe)",
+          "Zeki Çelik (AS Roma)"
+        ],
+        "Tiền vệ": [
+          "Hakan Çalhanoğlu (Inter Milan)",
+          "İsmail Yüksek (Fenerbahçe)",
+          "Kaan Ayhan (Galatasaray)",
+          "Orkun Kökçü (Benfica)",
+          "Salih Özcan (Dortmund)"
+        ],
+        "Tiền đạo": [
+          "Arda Güler (Real Madrid)",
+          "Barış Alper Yılmaz (Galatasaray)",
+          "Can Uzun (Eintracht Frankfurt)",
+          "Deniz Gül (Porto)",
+          "İrfan Can Kahveci (Fenerbahçe)",
+          "Kenan Yıldız (Juventus)",
+          "Kerem Aktürkoğlu (Benfica)",
+          "Oğuz Aydın (Fenerbahçe)",
+          "Yunus Akgün (Galatasaray)"
+        ]
+      },
+      "keyPlayers": [
+        "Arda Güler (Real Madrid, 21) - thần đồng số 1, trụ cột Real Madrid mùa 25-26, 'số 10 tương lai'",
+        "Kenan Yıldız (Juventus, 21) - thần đồng số 2, 28 caps ở tuổi 21, tiền đạo cánh khéo léo",
+        "Hakan Çalhanoğlu (Inter, 32, ĐT) - não bộ giữa sân, VĐ Serie A, đá phạt & penalty đỉnh cao",
+        "Merih Demiral (Al-Ahli) - trung vệ chỉ huy, cựu Juventus & Atalanta",
+        "Orkun Kökçü (Benfica) - tiền vệ box-to-box"
+      ],
+      "prediction": "Bảng D vừa sức (Mỹ, Úc, Paraguay). Trận vs Úc mở màn quyết định. Mục tiêu: vòng 1/16 - 1/8. Dark horse 'sneaky good' với 2 thần đồng đẳng cấp Real & Juve. Fox xếp ~#22.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "GER": {
+      "code": "GER",
+      "name": "Đức",
+      "nick": "Die Mannschaft",
+      "flag": "🇩🇪",
+      "group": "E",
+      "conf": "UEFA",
+      "fifa": 7,
+      "coach": "Julian Nagelsmann (Đức, từ 9/2023)",
+      "captain": "Joshua Kimmich (Bayern Munich)",
+      "stadium": "Allianz Arena (Munich)",
+      "summary": "Nagelsmann công bố 21/5 với cú sốc lớn: Manuel Neuer (40) trở lại sau khi giải nghệ ĐTQG hậu Euro 2024 — kỳ WC thứ 6. Thần đồng Lennart Karl (Bayern) được gọi. Leroy Sané (nay ở Galatasaray) góp mặt. Cặp Wirtz–Musiala là tương lai. Đức quyết chuộc lỗi sau 2 kỳ liền bị loại vòng bảng.",
+      "qualification": "Vòng loại UEFA: 5 thắng/6 trận, hàng thủ chắc nhất. Euro 2024 (chủ nhà) thua TBN ở tứ kết.",
+      "wcHistory": "21 lần dự. Vô địch 4 lần (1954, 1974, 1990, 2014). Á quân 4 lần. Bị loại vòng bảng 2018 + 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Manuel Neuer (Bayern Munich)",
+          "Oliver Baumann (Hoffenheim)",
+          "Alexander Nübel (Stuttgart)"
+        ],
+        "Hậu vệ": [
+          "Antonio Rüdiger (Real Madrid)",
+          "Jonathan Tah (Bayern Munich)",
+          "Nico Schlotterbeck (Dortmund)",
+          "Waldemar Anton (Dortmund)",
+          "David Raum (RB Leipzig)",
+          "Nathaniel Brown (Eintracht Frankfurt)",
+          "Robin Koch (Eintracht Frankfurt)"
+        ],
+        "Tiền vệ": [
+          "Joshua Kimmich (Bayern Munich) - ĐT, đá hậu vệ phải",
+          "Leon Goretzka (Bayern Munich)",
+          "Aleksandar Pavlović (Bayern Munich)",
+          "Angelo Stiller (Stuttgart)",
+          "Pascal Groß (Brighton)",
+          "Nadiem Amiri (Mainz)",
+          "Felix Nmecha (Dortmund)",
+          "Florian Wirtz (Liverpool)",
+          "Jamal Musiala (Bayern Munich)",
+          "Lennart Karl (Bayern Munich)",
+          "Jamie Leweling (Stuttgart)"
+        ],
+        "Tiền đạo": [
+          "Kai Havertz (Arsenal)",
+          "Nick Woltemade (Newcastle)",
+          "Leroy Sané (Galatasaray)",
+          "Maximilian Beier (Dortmund)",
+          "Deniz Undav (Stuttgart)"
+        ]
+      },
+      "keyPlayers": [
+        "Florian Wirtz (22) - não bộ tấn công, chuyển Liverpool £120M",
+        "Jamal Musiala (23) - 'Bambi', vua qua người Bundesliga",
+        "Joshua Kimmich (ĐT) - linh hồn đội, đá cả HV phải lẫn tiền vệ",
+        "Antonio Rüdiger (Real Madrid) - trung vệ top châu Âu",
+        "Nick Woltemade (Newcastle) - tài năng trẻ 1m98 nhưng kỹ thuật"
+      ],
+      "prediction": "Bán kết là mục tiêu tối thiểu. Loại sớm sẽ là khủng hoảng. Bảng E dễ thở, gần như chắc đầu bảng. Tỷ lệ ~+900.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-21"
+    },
+    "CUW": {
+      "code": "CUW",
+      "name": "Curaçao",
+      "nick": "The Blue Wave",
+      "flag": "🇨🇼",
+      "group": "E",
+      "conf": "CONCACAF",
+      "fifa": 82,
+      "coach": "Dick Advocaat (Hà Lan, 78 — HLV già nhất lịch sử WC)",
+      "captain": "Leandro Bacuna (cựu Aston Villa)",
+      "stadium": "Ergilio Hato Stadium (Willemstad)",
+      "summary": "Lần ĐẦU dự WC — quốc gia ít dân nhất lịch sử WC (~156.000, phá kỷ lục Iceland). Bất bại cả vòng loại CONCACAF. Đội hình gốc Curaçao trưởng thành ở Hà Lan.",
+      "qualification": "Vòng 3 CONCACAF bảng B: đứng đầu 12 điểm (hơn Jamaica hiệu số), bất bại - đội DUY NHẤT bất bại vòng loại 2026. Hòa Jamaica 0-0 quyết định. Bất ổn nội bộ (thay HLV 2 lần).",
+      "wcHistory": "Lần đầu tiên dự WC (2026). Quốc gia tự trị thuộc Vương quốc Hà Lan, tách từ Netherlands Antilles 2010. Dân số ~156.000 - ít nhất lịch sử WC.",
+      "squad": {
+        "Thủ môn": [
+          "Eloy Room (Columbus Crew)",
+          "Trevor Doornbusch (Telstar)",
+          "Tyrick Bodak (Vitesse)"
+        ],
+        "Hậu vệ": [
+          "Jurien Gaari (PEC Zwolle)",
+          "Roshon van Eijma (Cambuur)",
+          "Sherel Floranus (Heracles)",
+          "Joshua Brenet (Twente)",
+          "Shurandy Sambo (Sparta Rotterdam)",
+          "Armando Obispo (PSV)",
+          "Riechedly Bazoer (free agent)",
+          "Deveron Fonville (RKC Waalwijk)"
+        ],
+        "Tiền vệ": [
+          "Leandro Bacuna (free agent)",
+          "Juninho Bacuna (Gaziantep)",
+          "Godfried Roemeratoe (NEC)",
+          "Kevin Felida (Heracles)",
+          "Livano Comenencia (PSV)",
+          "Ar'jany Martha (Ajax)",
+          "Tyrese Noslin (Fortuna Sittard)"
+        ],
+        "Tiền đạo": [
+          "Kenji Gorre (Maccabi Haifa)",
+          "Brandley Kuwas (Samsunspor)",
+          "Gervane Kastaneer (Aris)",
+          "Jeremy Antonisse (Telstar)",
+          "Jearl Margaritha (FC Cincinnati)",
+          "Jürgen Locadia (PEC Zwolle)",
+          "Sontje Hansen (Middlesbrough)",
+          "Tahith Chong (Sheffield United)"
+        ]
+      },
+      "keyPlayers": [
+        "Tahith Chong (Sheffield United, 26) - sản phẩm lò Man United, tiền vệ tấn công kỹ thuật, hy vọng sáng tạo số 1",
+        "Leandro Bacuna (37, ĐT) - cựu Aston Villa & Reading, kỷ lục gia 68 caps",
+        "Juninho Bacuna (Gaziantep) - em trai Leandro, 3 bàn vòng loại",
+        "Eloy Room (Columbus Crew) - thủ môn số 1, kinh nghiệm MLS",
+        "Livano Comenencia (PSV, 22) - hậu vệ phải trẻ hứa hẹn"
+      ],
+      "prediction": "Bảng E khó (Đức, Ecuador, Bờ Biển Ngà). Mục tiêu: ghi bàn đầu tiên + giành điểm. Trận quyết định vs Bờ Biển Ngà (cuối bảng). Câu chuyện cổ tích: đảo ~156k dân trên sân khấu thế giới.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-18"
+    },
+    "CIV": {
+      "code": "CIV",
+      "name": "Bờ Biển Ngà",
+      "nick": "Les Éléphants",
+      "flag": "🇨🇮",
+      "group": "E",
+      "conf": "CAF",
+      "fifa": 34,
+      "coach": "Emerse Faé (Bờ Biển Ngà, từ 1/2024 — HLV đầu tiên được bổ nhiệm giữa AFCON và vô địch)",
+      "captain": "Franck Kessié (Al-Ahli)",
+      "stadium": "Alassane Ouattara Stadium (Abidjan)",
+      "summary": "ĐKVĐ AFCON 2023 (sân nhà). Trở lại WC sau 12 năm. Thế hệ 'Drogba 2.0' với Haller-Amad-Adingra. Thắng Hàn Quốc 4-0 giao hữu gây sốc.",
+      "qualification": "Vòng loại CAF bảng F: đứng đầu, thắng Kenya 3-0 ngày cuối giành vé. AFCON 2025: bị loại tứ kết bởi Ai Cập. Thắng Hàn Quốc 4-0 (3/2026).",
+      "wcHistory": "4 lần dự (2006, 2010, 2014, 2026). Chưa từng vượt vòng bảng. Cận kề nhất: WC 2014 (mất vé phút chót vs Hy Lạp). VĐ AFCON 1992, 2015, 2023.",
+      "squad": {
+        "Thủ môn": [
+          "Yahia Fofana (Angers)",
+          "Alban Lafont (Panathinaikos)",
+          "Mohamed Koné (Charleroi)"
+        ],
+        "Hậu vệ": [
+          "Ghislain Konan (Mes Rafsanjan)",
+          "Odilon Kossounou (Atalanta)",
+          "Wilfried Singo (Galatasaray)",
+          "Evan Ndicka (AS Roma)",
+          "Emmanuel Agbadou (Wolves)",
+          "Guéla Doué (Strasbourg)",
+          "Ousmane Diomande (Sporting CP)",
+          "Clément Akpa (Auxerre)"
+        ],
+        "Tiền vệ": [
+          "Franck Kessié (Al-Ahli)",
+          "Jean Michaël Seri (Hull City)",
+          "Ibrahim Sangaré (Nottingham Forest)",
+          "Seko Fofana (Rennes)",
+          "Christ Inao Oulaï (Bournemouth)",
+          "Parfait Guiagon (Le Havre)"
+        ],
+        "Tiền đạo": [
+          "Nicolas Pépé (Villarreal)",
+          "Oumar Diakité (Reims)",
+          "Simon Adingra (Sunderland)",
+          "Evann Guessand (Aston Villa)",
+          "Amad Diallo (Man United)",
+          "Yan Diomande (RB Leipzig)",
+          "Bazoumana Touré (RB Salzburg)",
+          "Elye Wahi (Eintracht Frankfurt)",
+          "Ange-Yoan Bonny (Inter Milan)"
+        ]
+      },
+      "keyPlayers": [
+        "Franck Kessié (Al-Ahli, 29, ĐT) - 'động cơ' giữa sân, cựu AC Milan & Barcelona, ghi penalty CK AFCON 2023",
+        "Sébastien Haller (Dortmund, 31) - câu chuyện cảm xúc sau ung thư tinh hoàn, ghi bàn CK AFCON 2023, kỳ WC đầu tiên",
+        "Amad Diallo (Man United, 23) - tài năng trẻ top Premier League 24-25",
+        "Simon Adingra (Sunderland) - Best Young Player AFCON 2023",
+        "Evan Ndicka (AS Roma) - trung vệ chân trái, Serie A"
+      ],
+      "prediction": "Bảng E: Đức #1, CIV tranh nhì với Ecuador. Trận vs Ecuador mở màn quyết định. Mục tiêu: vòng 1/16 - phá 'lời nguyền' 4 kỳ chưa qua vòng bảng. Haller & Amad có thể bùng nổ.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-15"
+    },
+    "ECU": {
+      "code": "ECU",
+      "name": "Ecuador",
+      "nick": "La Tri",
+      "flag": "🇪🇨",
+      "group": "E",
+      "conf": "CONMEBOL",
+      "fifa": 22,
+      "coach": "Sebastián Beccacece (Argentina, từ 8/2024 — cựu trợ lý Sampaoli)",
+      "captain": "Enner Valencia (36) / Moisés Caicedo",
+      "stadium": "Estadio Monumental (Guayaquil)",
+      "summary": "Hàng thủ tốt nhất vòng loại CONMEBOL (chỉ 5 bàn thua/18 trận). 'Sleeper team' theo Fox. Caicedo bị cấm 3 trận vòng bảng — mất mát lớn.",
+      "qualification": "Đứng thứ 2 CONMEBOL (29 điểm, chỉ sau Argentina), dù bị trừ 3 điểm. 8T 8H chỉ 2 thua. Để lọt vỏn vẹn 5 bàn.",
+      "wcHistory": "5 lần dự (2002, 2006, 2014, 2022, 2026). Tốt nhất: vòng 1/8 năm 2006 (thua Anh 0-1). Lần thứ 2 dự WC liên tiếp trong lịch sử.",
+      "squad": {
+        "Thủ môn": [
+          "Hernán Galíndez",
+          "Moisés Ramírez",
+          "Gonzalo Valle"
+        ],
+        "Hậu vệ": [
+          "Piero Hincapié (Arsenal)",
+          "Willian Pacho (PSG)",
+          "Pervis Estupiñán (AC Milan)",
+          "Félix Torres (Corinthians)",
+          "Joel Ordóñez (Club Brugge)",
+          "Jackson Porozo",
+          "Ángelo Preciado (Granada)",
+          "Yaimar Medina"
+        ],
+        "Tiền vệ": [
+          "Moisés Caicedo (Chelsea)",
+          "Alan Franco (River Plate)",
+          "Kendry Páez (Strasbourg)",
+          "Gonzalo Plata (Flamengo)",
+          "Pedro Vite (Pumas)",
+          "Jordy Alcívar",
+          "Denil Castillo",
+          "John Yeboah (Eupen)",
+          "Nilson Angulo (Anderlecht)",
+          "Alan Minda"
+        ],
+        "Tiền đạo": [
+          "Enner Valencia (Internacional)",
+          "Kevin Rodríguez (Union SG)",
+          "Jordy Caicedo",
+          "Anthony Valencia",
+          "Jeremy Arévalo (Racing Santander)"
+        ]
+      },
+      "keyPlayers": [
+        "Moisés Caicedo (Chelsea, 24) - tiền vệ phòng ngự hay nhất thế giới, VĐ Club World Cup 2025, nhưng vắng 3 trận đầu vì cấm",
+        "Willian Pacho (PSG) - VĐ Champions League 2025, trung vệ top thế giới",
+        "Piero Hincapié (Arsenal) - trung vệ toàn diện",
+        "Kendry Páez (Strasbourg, 18) - thần đồng, sẽ tới Chelsea",
+        "Pervis Estupiñán (AC Milan) - hậu vệ trái chất lượng"
+      ],
+      "prediction": "Bảng E vừa sức (Đức, CIV, Curaçao). Vòng 1/16 rất khả thi nhờ hàng thủ top 5 giải. Caicedo cấm 3 trận = mất bộ não vòng bảng. Fox coi là 'sleeper team'.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "NED": {
+      "code": "NED",
+      "name": "Hà Lan",
+      "nick": "Oranje",
+      "flag": "🇳🇱",
+      "group": "F",
+      "conf": "UEFA",
+      "fifa": 8,
+      "coach": "Ronald Koeman (Hà Lan, từ 1/2023)",
+      "captain": "Virgil van Dijk (Liverpool)",
+      "stadium": "Johan Cruijff ArenA (Amsterdam)",
+      "summary": "'Đội vĩ đại nhất chưa từng vô địch WC' - 3 lần á quân. Phòng ngự đẳng cấp nhưng chiều sâu tấn công yếu, nhiều ngôi sao chấn thương.",
+      "qualification": "Vòng loại UEFA bảng G: bất bại 8 trận. Bất bại 10 trận liên tiếp từ 6/2025. Euro 2024 vào bán kết.",
+      "wcHistory": "12 lần dự. Chưa từng vô địch. Á quân 3 lần (1974, 1978, 2010). Qatar 2022 thua Argentina ở tứ kết (penalty).",
+      "squad": {
+        "Thủ môn": [
+          "Mark Flekken (Bayer Leverkusen)",
+          "Robin Roefs (Sunderland)",
+          "Bart Verbruggen (Brighton)"
+        ],
+        "Hậu vệ": [
+          "Nathan Aké (Man City)",
+          "Virgil van Dijk (Liverpool)",
+          "Denzel Dumfries (Inter Milan)",
+          "Jan Paul van Hecke (Brighton)",
+          "Jurriën Timber (Arsenal)",
+          "Jorrel Hato (Chelsea)",
+          "Micky van de Ven (Tottenham)"
+        ],
+        "Tiền vệ": [
+          "Ryan Gravenberch (Liverpool)",
+          "Frenkie de Jong (Barcelona)",
+          "Teun Koopmeiners (Juventus)",
+          "Tijjani Reijnders (Man City)",
+          "Marten de Roon (Atalanta)",
+          "Guus Til (PSV)",
+          "Quinten Timber (Feyenoord)",
+          "Mats Wieffer (Brighton)"
+        ],
+        "Tiền đạo": [
+          "Brian Brobbey (Sunderland)",
+          "Memphis Depay (Corinthians)",
+          "Cody Gakpo (Liverpool)",
+          "Noa Lang (Napoli)",
+          "Donyell Malen (Aston Villa)",
+          "Crysencio Summerville (West Ham)",
+          "Wout Weghorst (Ajax)",
+          "Justin Kluivert (Bournemouth)"
+        ]
+      },
+      "keyPlayers": [
+        "Virgil van Dijk (34, ĐT) - trung vệ hay nhất thế giới, dấu hiệu mệt mỏi",
+        "Tijjani Reijnders (Man City) - 'brain' giữa sân, chuyển từ AC Milan",
+        "Ryan Gravenberch (Liverpool) - VĐ Premier League 24-25",
+        "Cody Gakpo (Liverpool) - wing trái nguy hiểm",
+        "Frenkie de Jong (Barcelona) - tiền vệ kiến thiết"
+      ],
+      "prediction": "Tứ kết là mục tiêu hợp lý. Không sẵn sàng vô địch. Bảng F khó nhất giải (Nhật mở màn vừa thắng Anh). Tỷ lệ ~+1400.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "JPN": {
+      "code": "JPN",
+      "name": "Nhật Bản",
+      "nick": "Samurai Blue",
+      "flag": "🇯🇵",
+      "group": "F",
+      "conf": "AFC",
+      "fifa": 18,
+      "coach": "Hajime Moriyasu (Nhật, từ 7/2018)",
+      "captain": "Wataru Endo (Liverpool)",
+      "stadium": "Saitama Stadium 2002",
+      "summary": "Đội đầu tiên ngoài 3 chủ nhà giành vé. Thế hệ vàng 20+ cầu thủ chơi ở châu Âu. Vừa thắng Anh 1-0 tại Wembley (3/2026). Mục tiêu phá 'lời nguyền 1/16'.",
+      "qualification": "Đội đầu tiên ngoài chủ nhà giành vé (20/3/2025). Đứng đầu bảng AFC tuyệt đối. Thắng Anh 1-0 & Scotland 1-0 giao hữu.",
+      "wcHistory": "8 lần dự liên tiếp. Tốt nhất: vòng 1/16 (4 lần). Qatar 2022 đứng đầu bảng trên TBN và Đức, thắng cả hai 2-1.",
+      "squad": {
+        "Thủ môn": [
+          "Zion Suzuki (Parma)",
+          "Keisuke Osako (Sanfrecce Hiroshima)",
+          "Tomoki Hayakawa (Machida Zelvia)"
+        ],
+        "Hậu vệ": [
+          "Yuto Nagatomo (FC Tokyo)",
+          "Takehiro Tomiyasu (free agent)",
+          "Ko Itakura (Ajax)",
+          "Shogo Taniguchi (Sint-Truiden)",
+          "Hiroki Ito (Bayern Munich)",
+          "Yukinari Sugawara (Southampton)",
+          "Ayumu Seko (Le Havre)",
+          "Tsuyoshi Watanabe (Feyenoord)",
+          "Junnosuke Suzuki (Genk)"
+        ],
+        "Tiền vệ": [
+          "Wataru Endo (Liverpool)",
+          "Junya Ito (Reims)",
+          "Ritsu Doan (Eintracht Frankfurt)",
+          "Daichi Kamada (Crystal Palace)",
+          "Takefusa Kubo (Real Sociedad)",
+          "Ao Tanaka (Leeds)",
+          "Keito Nakamura (Reims)",
+          "Kaishu Sano (Mainz)"
+        ],
+        "Tiền đạo": [
+          "Ayase Ueda (Feyenoord)",
+          "Daizen Maeda (Celtic)",
+          "Koki Ogawa (NEC Nijmegen)",
+          "Yuito Suzuki (Freiburg)",
+          "Keisuke Goto (Sint-Truiden)",
+          "Kento Shiogai (Yokohama F. Marinos)"
+        ]
+      },
+      "keyPlayers": [
+        "Takefusa Kubo (24) - số 10 hay nhất La Liga, 'Messi châu Á'",
+        "Kaoru Mitoma (28) - wing trái nhanh nhất Premier League, ghi bàn vs Anh",
+        "Wataru Endo (ĐT) - 'Duel King', VĐ Premier League với Liverpool",
+        "Ritsu Doan (Frankfurt) - người hùng vs Đức & TBN 2022",
+        "Ko Itakura (Ajax) - trung vệ chỉ huy"
+      ],
+      "prediction": "Tứ kết - phá lời nguyền 1/16. Gần như chắc vào 1/16. Trận vs Hà Lan mở màn định hình. Fox Sports xếp #18.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-15"
+    },
+    "SWE": {
+      "code": "SWE",
+      "name": "Thụy Điển",
+      "nick": "Blågult",
+      "flag": "🇸🇪",
+      "group": "F",
+      "conf": "UEFA",
+      "fifa": 24,
+      "coach": "Graham Potter (Anh, từ 11/2025 — cựu Chelsea, Brighton)",
+      "captain": "Victor Lindelöf (Aston Villa)",
+      "stadium": "Friends Arena (Stockholm)",
+      "summary": "Trở lại WC sau 8 năm qua play-off kịch tính. Cặp tiền đạo Gyökeres-Isak nguy hiểm. Vòng bảng UEFA tệ nhất lịch sử (2 điểm) nhưng hồi sinh dưới Potter.",
+      "qualification": "Vòng bảng UEFA chỉ 2 điểm (thảm họa), nhưng vào play-off Path C nhờ VĐ Nations League C. Thắng Ukraine + Ba Lan 3-2 (Gyökeres quyết định phút 88).",
+      "wcHistory": "13 lần dự. Tốt nhất: Á quân 1958 (chủ nhà, thua Brazil 2-5, Pelé 17 tuổi). Hạng 3: 1950, 1994. WC 2018 vào tứ kết. Vắng WC 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Kristoffer Nordfeldt (AIK)",
+          "Viktor Johansson (Stoke City)",
+          "Jacob Widell Zetterström (Derby)"
+        ],
+        "Hậu vệ": [
+          "Victor Lindelöf (Aston Villa)",
+          "Isak Hien (Atalanta)",
+          "Gabriel Gudmundsson (Leeds)",
+          "Carl Starfelt (Celta Vigo)",
+          "Emil Holm (Bologna)",
+          "Hjalmar Ekdal (Burnley)",
+          "Daniel Svensson (Dortmund)",
+          "Gustaf Lagerbielke (Braga)",
+          "Eric Smith (Panathinaikos)",
+          "Elliot Stroud (Mjällby)"
+        ],
+        "Tiền vệ": [
+          "Mattias Svanberg (Wolfsburg)",
+          "Jesper Karlström (Udinese)",
+          "Yasin Ayari (Brighton)",
+          "Lucas Bergvall (Tottenham)",
+          "Besfort Zeneli (Union SG)"
+        ],
+        "Tiền đạo": [
+          "Alexander Isak (Liverpool)",
+          "Viktor Gyökeres (Arsenal)",
+          "Ken Sema (Pafos)",
+          "Anthony Elanga (Newcastle)",
+          "Benjamin Nygren (Celtic)",
+          "Alexander Bernhardsson (Holstein Kiel)",
+          "Gustaf Nilsson (Club Brugge)",
+          "Taha Ali (IFK Göteborg)"
+        ]
+      },
+      "keyPlayers": [
+        "Viktor Gyökeres (Arsenal, 27) - 18 bàn Premier League mùa đầu, hat-trick play-off vs Ba Lan đưa đội tới WC",
+        "Alexander Isak (Liverpool, 26) - world-class nếu khỏe, nhưng chấn thương dai dẳng mùa 25-26",
+        "Anthony Elanga (Newcastle) - wing trái nhanh, cựu Man United",
+        "Victor Lindelöf (Aston Villa, ĐT) - trung vệ kinh nghiệm Champions League",
+        "Lucas Bergvall (Tottenham, 19) - tiền vệ trẻ hứa hẹn"
+      ],
+      "prediction": "Bảng F khó (Hà Lan, Nhật, Tunisia). Mục tiêu: vòng 1/16 (nhì bảng hoặc hạng 3 tốt). Cặp Gyökeres-Isak khỏe = công thức gây bất ngờ. Trận mở màn vs Tunisia quyết định.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-12"
+    },
+    "TUN": {
+      "code": "TUN",
+      "name": "Tunisia",
+      "nick": "Eagles of Carthage",
+      "flag": "🇹🇳",
+      "group": "F",
+      "conf": "CAF",
+      "fifa": 44,
+      "coach": "Sami Trabelsi (Tunisia, từ 2024 — cựu HLV Al Sailiya)",
+      "captain": "Ellyes Skhiri (Eintracht Frankfurt)",
+      "stadium": "Stade Olympique de Radès (Tunis)",
+      "summary": "7 lần dự WC nhưng chưa từng vượt vòng bảng. Đội châu Phi đầu tiên thắng trận tại WC (1978). Phòng ngự chắc, thiếu chân sút đẳng cấp.",
+      "qualification": "Vòng loại CAF: đứng đầu bảng H, vé tự động. Giao hữu 3/2026: thắng Haiti 1-0, hòa Brazil, hòa Canada.",
+      "wcHistory": "7 lần dự, chưa từng vượt vòng bảng (6 lần). WC 1978 thắng Mexico 3-1 (đội châu Phi đầu tiên thắng tại WC). WC 2022 thắng Pháp ĐKVĐ 1-0 (Khazri) nhưng vẫn loại. VĐ AFCON 2004.",
+      "squad": {
+        "Thủ môn": [
+          "Aymen Dahmen (Sochaux)",
+          "Sabri Ben Hassen (Espérance)",
+          "Mouhib Chamakh (Étoile du Sahel)"
+        ],
+        "Hậu vệ": [
+          "Montassar Talbi (Al-Khaleej)",
+          "Dylan Bronn (Salernitana)",
+          "Ali Abdi (Caen)",
+          "Yan Valery (Angers)",
+          "Mohamed Amine Ben Hamida (Étoile du Sahel)",
+          "Moutaz Neffati (Twente)",
+          "Omar Rekik (Sevilla)",
+          "Adem Arous (Espérance)",
+          "Raed Chikhaoui (Club Africain)"
+        ],
+        "Tiền vệ": [
+          "Ellyes Skhiri (Eintracht Frankfurt)",
+          "Hannibal Mejbri (Burnley)",
+          "Anis Ben Slimane (Blackburn)",
+          "Mortadha Ben Ouanes (Yverdon)",
+          "Ismaël Gharbi (Augsburg)",
+          "Hadj Mahmoud (Étoile du Sahel)",
+          "Rani Khedira (Hertha Berlin)"
+        ],
+        "Tiền đạo": [
+          "Elias Achouri (Copenhagen)",
+          "Firas Chaouat (Espérance)",
+          "Hazem Mastouri (US Monastir)",
+          "Elias Saad (St. Pauli)",
+          "Sébastien Tounekti (Hammarby)",
+          "Khalil Ayari (PSG)",
+          "Rayan Elloumi (Châteauroux)"
+        ]
+      },
+      "keyPlayers": [
+        "Ellyes Skhiri (Eintracht Frankfurt, 30, ĐT) - 'lá phổi' giữa sân, tiền vệ Bundesliga đỉnh cao",
+        "Hannibal Mejbri (Burnley) - sản phẩm Man United, não bộ tấn công",
+        "Aïssa Laïdouni (Union Berlin) - tiền vệ box-to-box",
+        "Khalil Ayari (PSG, 21) - tài năng trẻ PSG",
+        "Ismaël Gharbi (Augsburg) - cựu PSG academy"
+      ],
+      "prediction": "Bảng F khó (Hà Lan, Nhật, Thụy Điển đều mạnh hơn). Mục tiêu: giành điểm + lần đầu vượt vòng bảng — rất khó trong bảng này. Tinh thần cứng, mạnh set-piece. Fox xếp ~#42.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-15"
+    },
+    "BEL": {
+      "code": "BEL",
+      "name": "Bỉ",
+      "nick": "Red Devils",
+      "flag": "🇧🇪",
+      "group": "G",
+      "conf": "UEFA",
+      "fifa": 9,
+      "coach": "Rudi Garcia (Pháp, từ 2/2025)",
+      "captain": "Kevin De Bruyne (Napoli)",
+      "stadium": "Stade Roi Baudouin (Bruxelles)",
+      "summary": "Thế hệ vàng đã qua đỉnh nhưng De Bruyne và Lukaku vẫn đẳng cấp. Từng #1 FIFA liên tục 4 năm (2018-2022).",
+      "qualification": "Vòng loại UEFA: đứng đầu bảng nhưng không thuyết phục. Euro 2024 thua Pháp ở vòng 1/8.",
+      "wcHistory": "14 lần dự. Tốt nhất: Hạng 3 2018 (Nga). Bán kết 1986. Bị loại vòng bảng Qatar 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Thibaut Courtois (Real Madrid)",
+          "Senne Lammens (Man United)",
+          "Mike Penders (Chelsea)"
+        ],
+        "Hậu vệ": [
+          "Thomas Meunier (Lille)",
+          "Timothy Castagne (Fulham)",
+          "Arthur Theate (Eintracht Frankfurt)",
+          "Zeno Debast (Sporting CP)",
+          "Maxim De Cuyper (Brighton)",
+          "Brandon Mechele (Club Brugge)",
+          "Koni De Winter (AC Milan)",
+          "Joaquín Seys (Club Brugge)",
+          "Nathan Ngoy (Stuttgart)"
+        ],
+        "Tiền vệ": [
+          "Axel Witsel (Girona)",
+          "Kevin De Bruyne (Napoli)",
+          "Youri Tielemans (Aston Villa)",
+          "Hans Vanaken (Club Brugge)",
+          "Amadou Onana (Aston Villa)",
+          "Nicolas Raskin (Rangers)"
+        ],
+        "Tiền đạo": [
+          "Romelu Lukaku (Napoli)",
+          "Leandro Trossard (Arsenal)",
+          "Jérémy Doku (Man City)",
+          "Dodi Lukebakio (Sevilla)",
+          "Charles De Ketelaere (Atalanta)",
+          "Alexis Saelemaekers (AC Milan)",
+          "Diego Moreira (Strasbourg)",
+          "Matías Fernández-Pardo (Lille)"
+        ]
+      },
+      "keyPlayers": [
+        "Kevin De Bruyne (35, ĐT) - vừa VĐ Serie A với Napoli, kỳ WC cuối",
+        "Romelu Lukaku (32) - vua phá lưới lịch sử Bỉ 80+ bàn",
+        "Jeremy Doku (Man City) - wing trái top Premier League",
+        "Thibaut Courtois (Real Madrid) - thủ môn VĐ Champions League",
+        "Charles De Ketelaere (Atalanta) - não bộ tấn công"
+      ],
+      "prediction": "Tứ kết là mục tiêu thực tế. Bán kết là 'cú tạm biệt hoàn hảo' cho De Bruyne. Bảng G vừa sức. Tỷ lệ ~+2000.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-15"
+    },
+    "EGY": {
+      "code": "EGY",
+      "name": "Ai Cập",
+      "nick": "Pharaohs",
+      "flag": "🇪🇬",
+      "group": "G",
+      "conf": "CAF",
+      "fifa": 36,
+      "coach": "Hossam Hassan (Ai Cập, từ 7/2024 — huyền thoại tiền đạo 170 caps)",
+      "captain": "Mohamed Salah (Liverpool)",
+      "stadium": "Cairo International Stadium",
+      "summary": "Trở lại WC sau 8 năm — có thể là kỳ WC cuối của Salah. VĐ AFCON 7 lần (kỷ lục). Bộ đôi tấn công Salah-Marmoush. Mục tiêu lịch sử: vượt vòng bảng lần đầu.",
+      "qualification": "Vòng loại CAF bảng A: đứng đầu, vé tự động (Salah ghi 7 bàn). AFCON 2025: bán kết (Salah 4 bàn, đồng vua phá lưới).",
+      "wcHistory": "4 lần dự (1934, 1990, 2018, 2026). Chưa từng vượt vòng bảng. Đội châu Phi & Ả Rập ĐẦU TIÊN dự WC (1934). VĐ AFCON 7 lần — kỷ lục.",
+      "squad": {
+        "Thủ môn": [
+          "Mohamed El Shenawy (Al Ahly)",
+          "Mostafa Shobeir",
+          "El Mahdy Soliman",
+          "Mohamed Alaa"
+        ],
+        "Hậu vệ": [
+          "Mohamed Abdelmonem (Al Ahly)",
+          "Mohamed Hany (Al Ahly)",
+          "Yasser Ibrahim (Al Ahly)",
+          "Hossam Abdelmaguid",
+          "Ahmed Fattouh",
+          "Tarek Alaa",
+          "Rami Rabia (Al Ahly)",
+          "Karim Hafez"
+        ],
+        "Tiền vệ": [
+          "Marwan Attia",
+          "Ahmed Sayed 'Zizo' (Al Ahly)",
+          "Mahmoud 'Trezeguet' Hassan (Trabzonspor)",
+          "Emam Ashour (Al Ahly)",
+          "Mostafa Abdel Raouf",
+          "Mohannad Lasheen",
+          "Haitham Hassan",
+          "Mahmoud Saber",
+          "Ibrahim Adel",
+          "Nabil Emad",
+          "Hamdi Fathi"
+        ],
+        "Tiền đạo": [
+          "Mohamed Salah (Liverpool)",
+          "Omar Marmoush (Man City)",
+          "Hamza Abdel Karim"
+        ]
+      },
+      "keyPlayers": [
+        "Mohamed Salah (Liverpool, 33, ĐT) - cầu thủ châu Phi vĩ đại nhất lịch sử, VĐ PL & Champions League, kỳ WC cuối",
+        "Omar Marmoush (Man City) - ngôi sao mới, chuyển từ Frankfurt giá £80M",
+        "Mohamed Elneny (Al Jazira) - 'lá phổi' giữa sân, cựu Arsenal",
+        "Trezeguet (Trabzonspor) - wing trái, cựu Aston Villa",
+        "Rami Rabia (Al Ahly) - trung vệ chỉ huy"
+      ],
+      "prediction": "Bảng G: Bỉ #1. Trận vs Iran (26/6, cuối bảng) quyết định nhì bảng. Mục tiêu: vượt vòng bảng lần đầu lịch sử (91 năm sau lần đầu dự). Phụ thuộc lớn vào Salah.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "IRN": {
+      "code": "IRN",
+      "name": "Iran",
+      "nick": "Team Melli",
+      "flag": "🇮🇷",
+      "group": "G",
+      "conf": "AFC",
+      "fifa": 21,
+      "coach": "Amir Ghalenoei (Iran, từ 2023 — nhiệm kỳ thứ 2)",
+      "captain": "Mehdi Taremi (Olympiacos)",
+      "stadium": "Azadi Stadium (Tehran)",
+      "summary": "4 kỳ WC liên tiếp, #3 châu Á. Mục tiêu lịch sử: lần đầu vào knockout. Bối cảnh đặc biệt — tập trại ở Thổ Nhĩ Kỳ do bất ổn trong nước.",
+      "qualification": "Vòng 3 AFC: giành vé 25/3/2025 (hòa Uzbekistan 2-2, Taremi cú đúp), đứng đầu bảng A.",
+      "wcHistory": "7 lần dự (4 kỳ liên tiếp). Chưa từng vào knockout. Thắng lịch sử: vs Mỹ 2-1 (1998), vs Morocco 1-0 (2018), vs Wales 2-0 (2022). 3 lần VĐ Asian Cup (1968-76).",
+      "squad": {
+        "Thủ môn": [
+          "Alireza Beiranvand (Persepolis)",
+          "Seyed Hossein Hosseini",
+          "Payam Niazmand"
+        ],
+        "Hậu vệ": [
+          "Danial Eiri",
+          "Ehsan Hajsafi (AEK Athens)",
+          "Saleh Hardani",
+          "Hossein Kanaani",
+          "Shoja Khalilzadeh",
+          "Milad Mohammadi (Persepolis)",
+          "Ali Nemati",
+          "Ramin Rezaeian"
+        ],
+        "Tiền vệ": [
+          "Rouzbeh Cheshmi",
+          "Saeid Ezatolahi (Al-Shabab)",
+          "Mehdi Ghaedi",
+          "Saman Ghoddos (Brentford)",
+          "Mohammad Ghorbani",
+          "Alireza Jahanbakhsh (Heerenveen)",
+          "Mohammad Mohebi",
+          "Amir Mohammad Razzaghinia",
+          "Mehdi Torabi (Persepolis)",
+          "Aria Yousefi"
+        ],
+        "Tiền đạo": [
+          "Ali Alipour",
+          "Dennis Dargahi",
+          "Amirhossein Hosseinzadeh",
+          "Mehdi Taremi (Olympiacos)",
+          "Shahriar Moghanlou"
+        ]
+      },
+      "keyPlayers": [
+        "Mehdi Taremi (Olympiacos, 33, ĐT) - vua phá lưới vòng loại AFC 10 bàn, cựu Porto & Inter",
+        "Sardar Azmoun (Shabab Al-Ahli, 31) - 'Messi Iran', cựu Leverkusen, Roma",
+        "Alireza Jahanbakhsh - cựu Brighton, Feyenoord, veteran số 7",
+        "Saeid Ezatolahi (Al-Sharjah) - mỏ neo",
+        "Alireza Beiranvand (Persepolis) - thủ môn nổi tiếng"
+      ],
+      "prediction": "Bảng G: Bỉ #1, Iran tranh nhì với Ai Cập. Trận vs Ai Cập (26/6) quyết định. Mục tiêu: vòng 1/16 — phá rào cản lịch sử. Khủng hoảng trước giải là điểm lo. Fox xếp #30.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "NZL": {
+      "code": "NZL",
+      "name": "New Zealand",
+      "nick": "All Whites",
+      "flag": "🇳🇿",
+      "group": "G",
+      "conf": "OFC",
+      "fifa": 85,
+      "coach": "Darren Bazeley (Anh, từ 5/2024 — cựu Watford, trợ lý lâu năm)",
+      "captain": "Chris Wood (Nottingham Forest)",
+      "stadium": "Eden Park (Auckland)",
+      "summary": "Đại diện duy nhất Châu Đại Dương, trở lại sau 16 năm. Đội xếp hạng FIFA thấp nhất giải (#85). Bất bại tại WC 2010 (3 hòa). Chris Wood là ngôi sao Premier League duy nhất.",
+      "qualification": "Vòng loại OFC: thắng New Caledonia 3-0 (CK 3/2025) giành vé tự động đầu tiên (FIFA mở suất OFC). Thắng Chile 4-1 + hòa Na Uy giao hữu 3/2026.",
+      "wcHistory": "3 lần dự (1982, 2010, 2026). WC 2010 bất bại (3 hòa, gồm hòa ĐKVĐ Italy 1-1) - đội duy nhất bất bại ngoài TBN nhưng vẫn loại. VĐ OFC Nations Cup 5 lần.",
+      "squad": {
+        "Thủ môn": [
+          "Max Crocombe (Millwall)",
+          "Alex Paulsen (Lechia Gdańsk)",
+          "Michael Woud (Auckland FC)"
+        ],
+        "Hậu vệ": [
+          "Tim Payne (Wellington Phoenix)",
+          "Francis de Vries (Auckland FC)",
+          "Tyler Bindon (Nottingham Forest)",
+          "Michael Boxall (Minnesota United)",
+          "Liberato Cacace (Wrexham)",
+          "Nando Pijnaker (Auckland FC)",
+          "Finn Surman (Portland Timbers)",
+          "Callan Elliot (Auckland FC)",
+          "Tommy Smith (Braintree Town)"
+        ],
+        "Tiền vệ": [
+          "Joe Bell (Viking FK)",
+          "Matthew Garbett (Peterborough)",
+          "Marko Stamenić (Swansea City)",
+          "Sarpreet Singh (Wellington Phoenix)",
+          "Elijah Just (Motherwell)",
+          "Alex Rufer (Wellington Phoenix)",
+          "Ben Old (St Mirren)",
+          "Callum McCowatt (Auckland FC)",
+          "Ryan Thomas (PEC Zwolle)",
+          "Lachlan Bayliss (Newcastle Jets)"
+        ],
+        "Tiền đạo": [
+          "Chris Wood (Nottingham Forest)",
+          "Kosta Barbarouses (Western Sydney)",
+          "Ben Waine (Plymouth)",
+          "Jesse Randall (Auckland FC)"
+        ]
+      },
+      "keyPlayers": [
+        "Chris Wood (Nottingham Forest, 34, ĐT) - ngôi sao đẳng cấp duy nhất, 14 bàn Premier League 24-25, kỷ lục gia ghi bàn ĐT",
+        "Michael Boxall (Minnesota United) - trung vệ veteran",
+        "Liberato Cacace (Empoli) - hậu vệ trái Serie A",
+        "Marko Stamenic (Olympiacos) - tiền vệ VĐ Conference League 2024",
+        "Tyler Bindon (Reading, 21) - trung vệ trẻ hứa hẹn"
+      ],
+      "prediction": "Bảng G khó (Bỉ, Ai Cập, Iran đều trên chức). Trận vs Iran mở màn quyết định tinh thần. Mục tiêu: giành 1-3 điểm + ghi bàn WC đầu tiên kể từ 2010. Vào knockout sẽ là kỳ tích. Fox xếp ~#48.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-14"
+    },
+    "ESP": {
+      "code": "ESP",
+      "name": "Tây Ban Nha",
+      "nick": "La Roja",
+      "flag": "🇪🇸",
+      "group": "H",
+      "conf": "UEFA",
+      "fifa": 1,
+      "detail": true,
+      "coach": "Luis de la Fuente",
+      "captain": "—",
+      "stadium": "—",
+      "summary": "FIFA #1, ứng viên số 1 cho chức vô địch. Cảnh báo chấn thương: Yamal, Nico Williams, Merino, Carvajal nguy hiểm cao; Samu đã loại.",
+      "wcHistory": "Vô địch 2010. Nhà ĐKVĐ Euro 2024.",
+      "squad": {
+        "Thủ môn": [
+          "Unai Simón (Athletic Bilbao)",
+          "David Raya (Arsenal)",
+          "Joan García (Barcelona)"
+        ],
+        "Hậu vệ": [
+          "Marc Cucurella (Chelsea)",
+          "Pau Cubarsí (Barcelona)",
+          "Aymeric Laporte (Athletic Bilbao)",
+          "Alejandro Grimaldo (Bayer Leverkusen)",
+          "Pedro Porro (Tottenham)",
+          "Eric García (Barcelona)",
+          "Marcos Llorente (Atlético Madrid)",
+          "Marc Pubill (Atlético Madrid)"
+        ],
+        "Tiền vệ": [
+          "Gavi (Barcelona)",
+          "Rodri (Man City)",
+          "Pedri (Barcelona)",
+          "Martín Zubimendi (Arsenal)",
+          "Fabián Ruiz (PSG)",
+          "Álex Baena (Atlético Madrid)",
+          "Mikel Merino (Arsenal)"
+        ],
+        "Tiền đạo": [
+          "Lamine Yamal (Barcelona)",
+          "Nico Williams (Athletic Bilbao)",
+          "Dani Olmo (Barcelona)",
+          "Ferran Torres (Barcelona)",
+          "Mikel Oyarzabal (Real Sociedad)",
+          "Yeremy Pino (Crystal Palace)",
+          "Borja Iglesias (Celta Vigo)",
+          "Víctor Muñoz"
+        ]
+      },
+      "keyPlayers": [
+        "Lamine Yamal (Barcelona)",
+        "Pedri (Barcelona)",
+        "Nico Williams (Athletic Bilbao)"
+      ],
+      "prediction": "Ứng viên vô địch hàng đầu nếu giữ được quân chủ lực khỏe mạnh.",
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "KSA": {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "nick": "Green Falcons",
+      "flag": "🇸🇦",
+      "group": "H",
+      "conf": "AFC",
+      "fifa": 31,
+      "coach": "Georgios Donis (Hy Lạp, từ 4/2026 — thay Hervé Renard, mới nhậm chức)",
+      "captain": "Salem Al-Dawsari (Al-Hilal)",
+      "stadium": "King Fahd International Stadium (Riyadh)",
+      "summary": "3 kỳ WC liên tiếp. Nổi tiếng với cú sốc thắng Argentina 2-1 ở WC 2022. Đội hình gần như toàn Al-Hilal. HLV mới nhậm 2 tháng trước giải. Đăng cai WC 2034.",
+      "qualification": "Vòng 4 AFC: đứng đầu bảng B (hòa Iraq, thắng Indonesia) giành vé. Thua Úc 1-2 (10/2025). Mới thay HLV Renard → Donis.",
+      "wcHistory": "7 lần dự. Tốt nhất: vòng 1/16 năm 1994 (debut). Cú sốc thắng Argentina 2-1 WC 2022. Al-Owairan ghi bàn solo huyền thoại vs Bỉ 1994. VĐ Asian Cup 3 lần.",
+      "squad": {
+        "Thủ môn": [
+          "Nawaf Al-Aqidi (Al-Nassr)",
+          "Mohamed Al-Owais (Al-Hilal)",
+          "Ahmed Alkassar"
+        ],
+        "Hậu vệ": [
+          "Saud Abdulhamid (AS Roma)",
+          "Jehad Thakri",
+          "Abdulelah Al-Amri",
+          "Hassan Tambakti",
+          "Ali Lajami",
+          "Hassan Kadesh",
+          "Moteb Al-Harbi",
+          "Nawaf Boushal",
+          "Ali Majrashi",
+          "Mohammed Abu Alshamat"
+        ],
+        "Tiền vệ": [
+          "Ziyad Al-Johani",
+          "Nasser Al-Dawsari (Al-Hilal)",
+          "Mohamed Kanno (Al-Hilal)",
+          "Abdullah Al-Khaibari",
+          "Alaa Al-Hejji",
+          "Musab Al-Juwayr (Al-Hilal)",
+          "Sultan Mandash",
+          "Ayman Yahya",
+          "Khalid Al-Ghannam"
+        ],
+        "Tiền đạo": [
+          "Salem Al-Dawsari (Al-Hilal)",
+          "Abdullah Al-Hamdan",
+          "Feras Al-Brikan (Al-Ahli)",
+          "Saleh Al-Shehri (Al-Hilal)"
+        ]
+      },
+      "keyPlayers": [
+        "Salem Al-Dawsari (Al-Hilal, 34, ĐT) - hero quốc gia, ghi bàn thắng Argentina WC 2022, 4 lần cầu thủ hay nhất AFC",
+        "Firas Al-Buraikan (Al-Ahli) - tiền đạo trẻ phong độ cao, VĐ ACL 2025",
+        "Saud Abdulhamid (AS Roma) - hậu vệ phải hiếm hoi chơi châu Âu",
+        "Mohamed Kanno (Al-Hilal) - mỏ neo",
+        "Mohammed Al-Owais (Al-Hilal) - thủ môn số 1"
+      ],
+      "prediction": "Bảng H: TBN #1. Tranh nhì-ba với Uruguay & Cape Verde. Trận mở màn vs Uruguay quyết định. Mục tiêu: thắng + vào knockout lần 2 sau 32 năm. HLV mới nhậm là điểm lo lớn. Guardian xếp #46.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "URU": {
+      "code": "URU",
+      "name": "Uruguay",
+      "nick": "La Celeste",
+      "flag": "🇺🇾",
+      "group": "H",
+      "conf": "CONMEBOL",
+      "fifa": 16,
+      "coach": "Marcelo Bielsa ('El Loco', Argentina, 70, từ 5/2023 — kỳ WC thứ 3)",
+      "captain": "Federico Valverde / José M. Giménez",
+      "stadium": "Estadio Centenario (Montevideo)",
+      "summary": "2 lần vô địch WC (1930, 1950 'Maracanazo'). Thế hệ Suárez-Cavani đã nghỉ, 'bronze generation' mới quanh Valverde. Bielsa với triết lý press cao.",
+      "qualification": "Đứng thứ 4 CONMEBOL. Giao hữu 3/2026 đáng lo: thua Algeria, thua Mỹ 1-5.",
+      "wcHistory": "15 lần dự. Vô địch 2 lần (1930 chủ nhà, 1950). Bán kết 5 lần (gần nhất 2010). 4 sao trên áo (gồm 2 Olympic 1924, 1928). Qatar 2022 bị loại vòng bảng.",
+      "squad": {
+        "Thủ môn": [
+          "Sergio Rochet (Internacional)",
+          "Fernando Muslera (Estudiantes)",
+          "Santiago Mele (Junior Barranquilla)"
+        ],
+        "Hậu vệ": [
+          "Guillermo Varela (Flamengo)",
+          "Ronald Araújo (Barcelona)",
+          "José María Giménez (Atlético Madrid)",
+          "Santiago Bueno (Wolves)",
+          "Sebastián Cáceres (América)",
+          "Mathías Olivera (Napoli)",
+          "Joaquín Piquerez (Palmeiras)",
+          "Matías Viña (Flamengo)"
+        ],
+        "Tiền vệ": [
+          "Maximiliano Araújo (Sporting CP)",
+          "Giorgian de Arrascaeta (Flamengo)",
+          "Rodrigo Bentancur (Tottenham)",
+          "Agustín Canobbio (Athletico Paranaense)",
+          "Nicolás de la Cruz (Flamengo)",
+          "Emiliano Martínez (Tottenham)",
+          "Facundo Pellistri (Panathinaikos)",
+          "Brian Rodríguez (América)",
+          "Juan Manuel Sanabria",
+          "Manuel Ugarte (Man United)",
+          "Federico Valverde (Real Madrid)",
+          "Rodrigo Zalazar (São Paulo)"
+        ],
+        "Tiền đạo": [
+          "Rodrigo Aguirre (América)",
+          "Federico Viñas (León)",
+          "Darwin Núñez (Al-Hilal)"
+        ]
+      },
+      "keyPlayers": [
+        "Federico Valverde (Real Madrid, 27) - tiền vệ toàn diện hàng đầu thế giới",
+        "Manuel Ugarte (Man United, 24) - tiền vệ phòng ngự chắc chắn",
+        "Darwin Núñez (Al-Hilal) - tay sút chính, bất ổn nhưng đột biến",
+        "Ronald Araujo (Barcelona) - trung vệ thủ lĩnh, khỏe",
+        "Rodrigo Bentancur (Tottenham) - tiền vệ chuẩn mực, kinh nghiệm Premier League"
+      ],
+      "prediction": "Bảng H khó nhất Nam Mỹ (TBN #1). Vòng 1/16 khả thi (nhì bảng sau TBN). Tứ kết là tối đa, cần Valverde + Bielsa đỉnh cao. Báo động: thua Mỹ 5-1.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "CPV": {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "nick": "Tubarões Azuis",
+      "flag": "🇨🇻",
+      "group": "H",
+      "conf": "CAF",
+      "fifa": 69,
+      "coach": "Bubista (Cape Verde, từ 2022 — đưa đội lần đầu tứ kết AFCON 2023)",
+      "captain": "Ryan Mendes (cựu Lille)",
+      "stadium": "Estádio Nacional de Cabo Verde (Praia)",
+      "summary": "Lần ĐẦU TIÊN dự WC — quốc gia chỉ ~525.000 dân (ít thứ hai tại giải). Câu chuyện cổ tích: đảo nhỏ giữa Đại Tây Dương vượt Cameroon giành vé.",
+      "qualification": "Vòng loại CAF bảng D: đứng đầu, vượt Cameroon giành vé tự động đầu tiên trong lịch sử (thắng Eswatini 10/2025).",
+      "wcHistory": "Lần đầu tiên dự WC (2026). Độc lập từ BĐN 1975, đợi 51 năm. Tứ kết AFCON 2023 (dark horse loại Ghana) & 2013.",
+      "squad": {
+        "Thủ môn": [
+          "Vozinha (Casa Pia)",
+          "Márcio Rosa (Anorthosis)",
+          "CJ dos Santos (Bayern Munich II)"
+        ],
+        "Hậu vệ": [
+          "Stopira (Aris Limassol)",
+          "Roberto Lopes (Shamrock Rovers)",
+          "João Paulo (Mafra)",
+          "Diney (Casa Pia)",
+          "Logan Costa (Toulouse)",
+          "Steven Moreira (LAFC)",
+          "Wagner Pina (Casa Pia)",
+          "Sidny Lopes Cabral (Boavista)",
+          "Kelvin Pires (Estoril)"
+        ],
+        "Tiền vệ": [
+          "Jamiro Monteiro (San Jose)",
+          "Kevin Pina (AEL Limassol)",
+          "Deroy Duarte (Sparta Rotterdam)",
+          "Telmo Arcanjo (Vitória Guimarães)",
+          "Laros Duarte (Go Ahead Eagles)",
+          "Yannick Semedo (Estrela Amadora)"
+        ],
+        "Tiền đạo": [
+          "Ryan Mendes (Hatayspor)",
+          "Garry Rodrigues (Pendikspor)",
+          "Willy Semedo (Petrolul Ploiești)",
+          "Jovane Cabral (Estoril)",
+          "Gilson Benchimol (Vitória Guimarães)",
+          "Dailon Livramento (Nacional)",
+          "Hélio Varela (CSKA Sofia)",
+          "Nuno da Costa (Cova Piedade)"
+        ]
+      },
+      "keyPlayers": [
+        "Ryan Mendes (36, ĐT) - veteran, cựu Lille (Ligue 1), 'linh hồn' đội tuyển",
+        "Bebé (Rayo Vallecano) - cựu Man United (thời Sir Alex), nay ở La Liga",
+        "Patrick Andrade (Sturm Graz) - tiền vệ trung tâm, VĐ Áo",
+        "Logan Costa (Toulouse) - trung vệ trẻ Ligue 1",
+        "Jovane Cabral (Sporting CP) - tiền đạo cánh"
+      ],
+      "prediction": "Bảng H: TBN #1, Uruguay #2. Tranh #3 với Saudi Arabia (trận cuối quyết định). Mục tiêu: giành điểm đầu tiên — có thể vào 1/16 qua hạng 3 tốt. Một trong những câu chuyện đẹp nhất giải. Fox xếp ~#45.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-18"
+    },
+    "FRA": {
+      "code": "FRA",
+      "name": "Pháp",
+      "nick": "Les Bleus",
+      "flag": "🇫🇷",
+      "group": "I",
+      "conf": "UEFA",
+      "fifa": 3,
+      "detail": true,
+      "coach": "Didier Deschamps",
+      "captain": "Kylian Mbappé",
+      "stadium": "Stade de France",
+      "summary": "Đội hình 26 công bố 14/5 bởi Deschamps: Camavinga bị loại, Robin Risser (uncapped) được gọi, Kanté dự WC thứ 3. Ekitiké & Gnabry chấn thương. Mbappé (gân kheo) vẫn có tên.",
+      "wcHistory": "Vô địch 1998, 2018. Á quân 2022 (thua Argentina pen).",
+      "squad": {
+        "Thủ môn": [
+          "Mike Maignan (AC Milan)",
+          "Brice Samba (Rennes)",
+          "Robin Risser (Strasbourg)"
+        ],
+        "Hậu vệ": [
+          "Lucas Digne (Aston Villa)",
+          "Jules Koundé (Barcelona)",
+          "Theo Hernández (Al-Hilal)",
+          "Lucas Hernández (PSG)",
+          "Dayot Upamecano (Bayern Munich)",
+          "William Saliba (Arsenal)",
+          "Ibrahima Konaté (Liverpool)",
+          "Malo Gusto (Chelsea)",
+          "Maxence Lacroix (Crystal Palace)"
+        ],
+        "Tiền vệ": [
+          "N'Golo Kanté (Al-Ittihad)",
+          "Adrien Rabiot (AC Milan)",
+          "Aurélien Tchouaméni (Real Madrid)",
+          "Manu Koné (AS Roma)",
+          "Warren Zaïre-Emery (PSG)"
+        ],
+        "Tiền đạo": [
+          "Kylian Mbappé (Real Madrid)",
+          "Ousmane Dembélé (PSG)",
+          "Marcus Thuram (Inter Milan)",
+          "Bradley Barcola (PSG)",
+          "Michael Olise (Bayern Munich)",
+          "Maghnes Akliouche (Monaco)",
+          "Désiré Doué (PSG)",
+          "Rayan Cherki (Man City)",
+          "Jean-Philippe Mateta (Crystal Palace)"
+        ]
+      },
+      "keyPlayers": [
+        "Kylian Mbappé (Real Madrid) - đội trưởng",
+        "N'Golo Kanté - WC thứ 3",
+        "Aurélien Tchouaméni"
+      ],
+      "prediction": "Ứng viên vô địch top 3, dù dàn chấn thương đáng lo ở hàng công.",
+      "official": true,
+      "officialDate": "2026-05-14"
+    },
+    "SEN": {
+      "code": "SEN",
+      "name": "Senegal",
+      "nick": "Lions of Teranga",
+      "flag": "🇸🇳",
+      "group": "I",
+      "conf": "CAF",
+      "fifa": 19,
+      "coach": "Pape Thiaw (Senegal, từ 8/2024 — bị cấm 5 trận đầu)",
+      "captain": "Kalidou Koulibaly (Al-Hilal)",
+      "stadium": "Stade Abdoulaye Wade (Diamniadio)",
+      "summary": "Pape Thiaw công bố 21/5 danh sách 28 người (sẽ cắt còn 26 trước giải). Sadio Mané (Al-Nassr) được gọi dù dính chấn thương chân — kỳ WC cuối. Bộ khung kinh nghiệm: Koulibaly (ĐT), Édouard Mendy. Tài năng trẻ Bara Ndiaye (Bayern Munich) là bất ngờ. Mục tiêu: vượt thành tích vòng 1/16 năm 2022.",
+      "qualification": "Vòng loại CAF bất bại, thắng Mauritania 4-0 giành vé. Á quân AFCON 2025 (CAF trao lại danh hiệu cho Morocco do Senegal rời sân phản đối). Thắng Anh giao hữu 6/2025.",
+      "wcHistory": "4 lần dự (2002, 2018, 2022, 2026). Tốt nhất: Tứ kết 2002 (thắng Pháp ĐKVĐ 1-0 trận khai mạc lịch sử). VĐ AFCON 2021. Qatar 2022 vào 1/16 (thua Anh 0-3).",
+      "squad": {
+        "Thủ môn": [
+          "Édouard Mendy (Al-Ahli)",
+          "Mory Diaw (Le Havre)",
+          "Yehvann Diouf (Nice)"
+        ],
+        "Hậu vệ": [
+          "Kalidou Koulibaly (Al-Hilal) - ĐT",
+          "Moussa Niakhaté (Lyon)",
+          "El Hadji Malick Diouf (West Ham)",
+          "Krépin Diatta (Monaco)",
+          "Mamadou Sarr (Chelsea)",
+          "Ismaïl Jakobs (Galatasaray)",
+          "Antoine Mendy (Nice)",
+          "Abdoulaye Seck (Maccabi Haifa)",
+          "Moustapha Mbow (Paris FC)",
+          "Ilay Camara (Anderlecht)"
+        ],
+        "Tiền vệ": [
+          "Idrissa Gana Gueye (Everton)",
+          "Pape Gueye (Villarreal)",
+          "Lamine Camara (Monaco)",
+          "Habib Diarra (Sunderland)",
+          "Pathé Ciss (Rayo Vallecano)",
+          "Pape Matar Sarr (Tottenham)",
+          "Bara Sapoko Ndiaye (Bayern Munich)"
+        ],
+        "Tiền đạo": [
+          "Sadio Mané (Al-Nassr)",
+          "Ismaïla Sarr (Crystal Palace)",
+          "Iliman Ndiaye (Everton)",
+          "Nicolas Jackson (Chelsea)",
+          "Assane Diao (Como)",
+          "Ibrahim Mbaye (PSG)"
+        ]
+      },
+      "keyPlayers": [
+        "Sadio Mané (Al-Nassr, 33) - vĩ đại nhất lịch sử Senegal, 51 bàn ĐTQG, cựu Liverpool, kỳ WC cuối",
+        "Nicolas Jackson (Bayern Munich) - tiền đạo cắm hàng đầu, vừa rời Chelsea",
+        "Kalidou Koulibaly (Al-Hilal, 34, ĐT) - veteran, cựu Napoli & Chelsea",
+        "Ismaïla Sarr (Crystal Palace) - phong độ đỉnh cao Premier League 25-26",
+        "Édouard Mendy (Al-Ahli) - thủ môn VĐ Champions League"
+      ],
+      "prediction": "Bảng I khó (Pháp #1). Trận vs Na Uy là 'chung kết bảng'. Mục tiêu: vòng 1/16 - 1/8, tứ kết là tạm biệt hoàn hảo cho Mané. Lo: HLV cấm 5 trận, tuổi cao, hangover AFCON.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-21"
+    },
+    "IRQ": {
+      "code": "IRQ",
+      "name": "Iraq",
+      "nick": "Lions of Mesopotamia",
+      "flag": "🇮🇶",
+      "group": "I",
+      "conf": "AFC",
+      "fifa": 57,
+      "coach": "Graham Arnold (Úc, từ 6/2025 — đưa Socceroos dự WC 2022)",
+      "captain": "Aymen Hussein (Al-Najmah)",
+      "stadium": "Basra International Stadium",
+      "summary": "Đội CUỐI CÙNG giành vé WC 2026 (qua play-off liên lục địa thắng Bolivia). Trở lại sau 40 năm. HLV Arnold giàu kinh nghiệm. Đội trẻ (TB ~26 tuổi).",
+      "qualification": "Hành trình play-off dài nhất: vòng 3-4-5 AFC rồi liên lục địa thắng Bolivia 2-1 (11/2025, Aymen Hussein quyết định) tại Mexico. Thắng UAE penalty phút 90+17.",
+      "wcHistory": "2 lần dự (1986 Mexico, 2026). WC 1986 thua cả 3 (vòng loại đá giữa chiến tranh Iran-Iraq). VĐ Asian Cup 2007 (giữa nội chiến). Mục tiêu: điểm đầu tiên ở WC.",
+      "squad": {
+        "Thủ môn": [
+          "Fahad Talib",
+          "Jalal Hassan",
+          "Ahmed Basil"
+        ],
+        "Hậu vệ": [
+          "Hussein Ali",
+          "Manaf Younis",
+          "Zaid Tahseen",
+          "Rebin Sulaka",
+          "Akam Hashem",
+          "Merchas Doski (Sparta Praha)",
+          "Ahmed Yahya",
+          "Zaid Ismail",
+          "Frans Putros",
+          "Mustafa Saadoon"
+        ],
+        "Tiền vệ": [
+          "Amir Al-Ammari (Hammarby)",
+          "Kevin Yakob (Häcken)",
+          "Zidane Iqbal (FC Utrecht)",
+          "Aimar Sher (BSC Young Boys)",
+          "Ibrahim Bayesh",
+          "Ahmed Qasim",
+          "Youssef Amyn",
+          "Marko Farji"
+        ],
+        "Tiền đạo": [
+          "Ali Jassim",
+          "Ali Al-Hamadi (Ipswich Town)",
+          "Ali Yousef",
+          "Aymen Hussein",
+          "Mohanad Ali (Persepolis)"
+        ]
+      },
+      "keyPlayers": [
+        "Aymen Hussein (33, ĐT) - 90+ caps, ghi bàn quyết định vào Bolivia giành vé WC",
+        "Ali Al-Hamadi (Ipswich Town) - tiền vệ Premier League, ghi bàn vs Bolivia",
+        "Zidane Iqbal (Utrecht) - sản phẩm Man United academy, cầu thủ Iraq đầu tiên đá Champions League",
+        "Mohanad Ali (Persepolis) - 'Mbappé Iraq', tiền đạo trẻ tài năng",
+        "Merchas Doski (Sparta Praha) - hậu vệ châu Âu"
+      ],
+      "prediction": "Bảng I cực khó (Pháp #1, Senegal, Na Uy). Mục tiêu: điểm đầu tiên trong lịch sử WC (chưa từng giành điểm). Một trận hòa sẽ là chiến thắng lớn. Arnold từng đưa đội yếu vào knockout. Fox xếp #42.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "NOR": {
+      "code": "NOR",
+      "name": "Na Uy",
+      "nick": "Løvene",
+      "flag": "🇳🇴",
+      "group": "I",
+      "conf": "UEFA",
+      "fifa": 11,
+      "coach": "Ståle Solbakken (Na Uy, từ 2020 — cựu FC København, Wolverhampton)",
+      "captain": "Martin Ødegaard (Arsenal)",
+      "stadium": "Ullevaal Stadium (Oslo)",
+      "summary": "Solbakken công bố 21/5 qua video có Vua Harald V. Lần đầu dự WC sau 28 năm — kỳ WC ĐẦU TIÊN của Haaland (vua phá lưới vòng loại 16 bàn) và đội trưởng Ødegaard. Thủ môn Sander Tangvik (Hamburg) là cầu thủ duy nhất chưa có cap.",
+      "qualification": "Vòng loại UEFA bảng I: bất bại 8/8. Haaland ghi 16 bàn (vua phá lưới vòng loại UEFA). Thắng Italy 3-0 tại San Siro.",
+      "wcHistory": "4 lần dự (1938, 1994, 1998, 2026). Tốt nhất: vòng 1/16 năm 1998 (thắng Brazil 2-1 vòng bảng). 28 năm vắng mặt liên tiếp.",
+      "squad": {
+        "Thủ môn": [
+          "Ørjan Nyland (Sevilla)",
+          "Egil Selvik (Watford)",
+          "Sander Tangvik (Hamburg)"
+        ],
+        "Hậu vệ": [
+          "Kristoffer Ajer (Brentford)",
+          "Leo Østigård (Genoa)",
+          "Julian Ryerson (Dortmund)",
+          "David Møller Wolfe (Wolves)",
+          "Marcus Holmgren Pedersen (Torino)",
+          "Torbjørn Heggem (Bologna)",
+          "Fredrik Bjørkan (Bodø/Glimt)",
+          "Henrik Falchener (Viking)",
+          "Sondre Langås (Derby County)"
+        ],
+        "Tiền vệ": [
+          "Martin Ødegaard (Arsenal) - ĐT",
+          "Sander Berge (Fulham)",
+          "Patrick Berg (Bodø/Glimt)",
+          "Kristian Thorstvedt (Sassuolo)",
+          "Morten Thorsby (Cremonese)",
+          "Thelo Aasgaard (Rangers)",
+          "Andreas Schjelderup (Benfica)",
+          "Jens Petter Hauge (Bodø/Glimt)",
+          "Fredrik Aursnes (Benfica)",
+          "Antonio Nusa (RB Leipzig)"
+        ],
+        "Tiền đạo": [
+          "Erling Haaland (Man City)",
+          "Alexander Sørloth (Atlético Madrid)",
+          "Jørgen Strand Larsen (Crystal Palace)",
+          "Oscar Bobb (Fulham, mượn từ Man City)"
+        ]
+      },
+      "keyPlayers": [
+        "Erling Haaland (Man City, 25) - hay nhất lịch sử Na Uy, kỳ WC ĐẦU TIÊN, 16 bàn vòng loại",
+        "Martin Ødegaard (Arsenal, 27, ĐT) - não bộ tấn công, hy vọng kịp bình phục chấn thương",
+        "Alexander Sørloth (Atlético) - vua phá lưới La Liga 24-25, cặp với Haaland",
+        "Oscar Bobb (Man City, 22) - tài năng trẻ nhất",
+        "Kristoffer Ajer (Brentford) - trung vệ 1m98"
+      ],
+      "prediction": "Bảng I 'tử thần' (Pháp #1). Na Uy & Senegal tranh nhì — trận vs Senegal (22/6) quyết định. Mục tiêu: vòng 1/16 - 1/8. Haaland Top Scorer là phần thưởng cá nhân. Fox xếp ~#12. Đội hình công bố 21/5.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-21"
+    },
+    "ARG": {
+      "code": "ARG",
+      "name": "Argentina",
+      "nick": "La Albiceleste",
+      "flag": "🇦🇷",
+      "group": "J",
+      "conf": "CONMEBOL",
+      "fifa": 4,
+      "detail": true,
+      "coach": "Lionel Scaloni (47)",
+      "captain": "Lionel Messi (38, Inter Miami)",
+      "stadium": "Estadio Más Monumental (Buenos Aires)",
+      "summary": "Đương kim vô địch (WC 2022). Tham vọng bảo vệ ngôi vô địch — lần đầu kể từ Brazil 1962. Lần dự WC thứ 19.",
+      "qualification": "Đứng đầu vòng loại CONMEBOL, vượt Brazil cả 2 lượt (4-1 ở Buenos Aires).",
+      "wcHistory": "Vô địch 3 lần (1978, 1986, 2022). Á quân 3 lần (1930, 1990, 2014).",
+      "squad": {
+        "Thủ môn": [
+          "Emiliano Martínez (Aston Villa)",
+          "Gerónimo Rulli (Marseille)",
+          "Juan Musso (Atalanta)"
+        ],
+        "Hậu vệ": [
+          "Leonardo Balerdi (Marseille)",
+          "Gonzalo Montiel (River Plate)",
+          "Nicolás Tagliafico (Lyon)",
+          "Lisandro Martínez (Man United)",
+          "Cristian Romero (Tottenham)",
+          "Nicolás Otamendi (Benfica)",
+          "Facundo Medina (Marseille)",
+          "Nahuel Molina (Atlético Madrid)"
+        ],
+        "Tiền vệ": [
+          "Leandro Paredes (Boca Juniors)",
+          "Rodrigo De Paul (Atlético Madrid)",
+          "Valentín Barco (Strasbourg)",
+          "Giovani Lo Celso (Real Betis)",
+          "Exequiel Palacios (Bayer Leverkusen)",
+          "Alexis Mac Allister (Liverpool)",
+          "Enzo Fernández (Chelsea)"
+        ],
+        "Tiền đạo": [
+          "Julián Álvarez (Atlético Madrid)",
+          "Lionel Messi (Inter Miami)",
+          "Nicolás González (Juventus)",
+          "Thiago Almada (Lyon)",
+          "Giuliano Simeone (Atlético Madrid)",
+          "Nico Paz (Como)",
+          "José Manuel López (Palmeiras)",
+          "Lautaro Martínez (Inter Milan)"
+        ]
+      },
+      "keyPlayers": [
+        "Lionel Messi (38) - 8 QBV, kỳ WC thứ 6 (kỷ lục), cách 3 bàn để phá kỷ lục ghi bàn WC. Có thể là WC cuối",
+        "Julián Álvarez - người kế nhiệm, 4 bàn WC 2022",
+        "Lautaro Martínez - Pichichi Serie A",
+        "Emiliano Martínez (33) - Golden Glove WC 2022, anh hùng penalty",
+        "Enzo Fernández - Best Young Player WC 2022"
+      ],
+      "prediction": "Top 4 rất khả thi. Vào chung kết tiễn biệt Messi bằng danh hiệu là kịch bản trong mơ. Bảng J dễ thở.",
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "AUT": {
+      "code": "AUT",
+      "name": "Áo",
+      "nick": "Das Team",
+      "flag": "🇦🇹",
+      "group": "J",
+      "conf": "UEFA",
+      "fifa": 22,
+      "coach": "Ralf Rangnick (Đức, từ 2022 — 'cha đẻ pressing', cựu RB Leipzig, Man United)",
+      "captain": "Marcel Sabitzer (Borussia Dortmund)",
+      "stadium": "Ernst-Happel-Stadion (Vienna)",
+      "summary": "Trở lại WC sau 28 năm (từ 1998). Gegenpressing Rangnick với dàn cầu thủ Bundesliga. Arnautović dự WC đầu tiên ở tuổi 37. Dark horse bảng J.",
+      "qualification": "Vòng loại UEFA bảng H: đứng đầu, vé tự động. Giao hữu 3/2026: thắng Ghana 5-1, thắng Hàn Quốc 1-0. Euro 2024 thua Thổ ở 1/16.",
+      "wcHistory": "8 lần dự. Tốt nhất: Hạng 3 năm 1954 ('Wunderteam'). WC 1978 thắng ĐKVĐ Tây Đức 3-2 ('Córdoba'). 28 năm vắng mặt liên tiếp.",
+      "squad": {
+        "Thủ môn": [
+          "Alexander Schlager (RB Salzburg)",
+          "Florian Wiegele (Wolfsberger AC)",
+          "Patrick Pentz (Brøndby)"
+        ],
+        "Hậu vệ": [
+          "David Affengruber (Elche)",
+          "Kevin Danso (Tottenham)",
+          "Stefan Posch (Como)",
+          "David Alaba (Real Madrid)",
+          "Philipp Lienhart (Freiburg)",
+          "Phillipp Mwene (PSV)",
+          "Alexander Prass (Hoffenheim)",
+          "Marco Friedl (Werder Bremen)",
+          "Michael Svoboda (Venezia)"
+        ],
+        "Tiền vệ": [
+          "Xaver Schlager (RB Leipzig)",
+          "Nicolas Seiwald (RB Leipzig)",
+          "Marcel Sabitzer (Dortmund)",
+          "Florian Grillitsch (Hoffenheim)",
+          "Carney Chukwuemeka (Borussia Dortmund)",
+          "Romano Schmid (Werder Bremen)",
+          "Christoph Baumgartner (RB Leipzig)",
+          "Konrad Laimer (Bayern Munich)",
+          "Patrick Wimmer (Wolfsburg)",
+          "Paul Wanner (Bayern Munich)",
+          "Alessandro Schöpf (WSG Tirol)"
+        ],
+        "Tiền đạo": [
+          "Marko Arnautović (Inter Milan)",
+          "Michael Gregoritsch (Freiburg)",
+          "Saša Kalajdžić (Hamburger SV)"
+        ]
+      },
+      "keyPlayers": [
+        "Marcel Sabitzer (Dortmund, 32, ĐT) - não bộ giữa sân, cựu Bayern & Man United",
+        "David Alaba (Real Madrid, 33) - huyền thoại Áo, 6 lần VĐ Champions League, chấn thương dai dẳng",
+        "Christoph Baumgartner (RB Leipzig) - tiền vệ công box-to-box kỹ thuật",
+        "Konrad Laimer (Bayern) - đa năng tiền vệ/hậu vệ phải",
+        "Marko Arnautović (Inter, 37) - kỳ WC ĐẦU TIÊN, sút xa đỉnh cao"
+      ],
+      "prediction": "Bảng J: Argentina #1 chắc. Áo tranh nhì với Algeria — trận vs Algeria (27/6) quyết định. Mục tiêu: vòng 1/16 - 1/8. Lo: Alaba chấn thương, thiếu số 9. Fox xếp ~#23.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-18"
+    },
+    "JOR": {
+      "code": "JOR",
+      "name": "Jordan",
+      "nick": "Al-Nashama",
+      "flag": "🇯🇴",
+      "group": "J",
+      "conf": "AFC",
+      "fifa": 62,
+      "coach": "Jamal Sellami (Morocco — từ 2024)",
+      "captain": "Mousa Al-Tamari (Montpellier)",
+      "stadium": "Amman International Stadium",
+      "summary": "Lần ĐẦU TIÊN dự WC trong lịch sử. Á quân Asian Cup 2023 (gây sốc loại Hàn Quốc bán kết). Mousa Al-Tamari là ngôi sao chơi ở Ligue 1.",
+      "qualification": "Vòng 3 AFC: đứng nhì bảng B, giành vé tự động đầu tiên trong lịch sử. Á quân Asian Cup 2023 (thua Qatar CK 1-3, nhưng loại Hàn Quốc 2-0 bán kết).",
+      "wcHistory": "Lần đầu tiên dự WC (2026). Trước đây nhiều lần lỡ hẹn ở play-off (gần nhất thua Uruguay play-off liên lục địa 2014). Á quân Asian Cup 2023 - thành tích tốt nhất.",
+      "squad": {
+        "Thủ môn": [
+          "Yazid Abulaila",
+          "Noor Bani Attiah",
+          "Abdallah Al-Fakhouri"
+        ],
+        "Hậu vệ": [
+          "Mohammad Abu Hashish",
+          "Abdullah Nasib",
+          "Hussam Abu Dhahab",
+          "Yazan Al-Arab",
+          "Mohammad Abu Alnadi",
+          "Salem Obaid",
+          "Saed Al-Rosan",
+          "Ehsan Haddad",
+          "Anas Badawi"
+        ],
+        "Tiền vệ": [
+          "Amer Jamous",
+          "Noor Al-Rawabdeh",
+          "Rajaei Ayed",
+          "Ibrahim Sadeh",
+          "Mohannad Abu Taha",
+          "Nizar Al-Rashdan",
+          "Mohammad Al-Dawoud",
+          "Mahmoud Mardahi"
+        ],
+        "Tiền đạo": [
+          "Mohammad Abu Zraiq",
+          "Ali Olwan",
+          "Mousa Al-Tamari (Montpellier)",
+          "Odeh Fakhoury",
+          "Ibrahim Sabra",
+          "Ali Azaizeh"
+        ]
+      },
+      "keyPlayers": [
+        "Mousa Al-Tamari (Montpellier, ĐT) - ngôi sao số 1, chạy cánh tốc độ, chơi ở Ligue 1 Pháp",
+        "Yazan Al-Naimat - tiền đạo chủ lực, ghi bàn ở Asian Cup 2023",
+        "Ali Olwan - tiền đạo cắm",
+        "Nour Al-Rawabdeh - tiền vệ trung tâm",
+        "Yazeed Abulaila - thủ môn số 1"
+      ],
+      "prediction": "Bảng J: Argentina #1 chắc. Áo & Algeria mạnh hơn. Mục tiêu: giành điểm đầu tiên trong kỳ WC đầu tiên. Á quân Asian Cup cho thấy tiềm năng gây bất ngờ. Al-Tamari là vũ khí lớn nhất.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "ALG": {
+      "code": "ALG",
+      "name": "Algeria",
+      "nick": "Les Fennecs",
+      "flag": "🇩🇿",
+      "group": "J",
+      "conf": "CAF",
+      "fifa": 28,
+      "coach": "Vladimir Petković (Bosnia/Croatia, từ 2024 — cựu HLV Thụy Sĩ tại Euro & WC 2018)",
+      "captain": "Riyad Mahrez (Al-Ahli SC)",
+      "stadium": "Stade Nelson Mandela (Algiers)",
+      "summary": "Trở lại WC sau 12 năm. Đội hình hầu hết chơi ở top 5 châu Âu. Kỳ WC ĐẦU TIÊN của Mahrez ở tuổi 35. Petković giàu kinh nghiệm giải lớn.",
+      "qualification": "Vòng loại CAF: đứng đầu bảng G, vé tự động. AFCON 2025: loại vòng bảng (sốc). Bỏ lỡ WC 2018 & 2022.",
+      "wcHistory": "5 lần dự (1982, 1986, 2010, 2014, 2026). Tốt nhất: vòng 1/16 WC 2014 (thua Đức 1-2 hiệp phụ). WC 1982 thắng Tây Đức 2-1 ('vụ nhục Gijón'). VĐ AFCON 1990 & 2019.",
+      "squad": {
+        "Thủ môn": [
+          "Oussama Benbot",
+          "Melvin Masstil",
+          "Luca Zidane (Granada)"
+        ],
+        "Hậu vệ": [
+          "Achraf Abada",
+          "Rayan Aït-Nouri (Man City)",
+          "Zinedine Belaid",
+          "Rafik Belghali",
+          "Ramy Bensebaini (Dortmund)",
+          "Samir Chergui",
+          "Jaouen Hadjam",
+          "Aïssa Mandi (Lille)",
+          "Mohamed Amine Tougai"
+        ],
+        "Tiền vệ": [
+          "Houssem Aouar (Al-Ittihad)",
+          "Nabil Bentaleb (Lille)",
+          "Hicham Boudaoui (Nice)",
+          "Farès Chaïbi (Eintracht Frankfurt)",
+          "Ibrahim Maza (Bayer Leverkusen)",
+          "Yassine Titraoui",
+          "Ramiz Zerrouki (Feyenoord)"
+        ],
+        "Tiền đạo": [
+          "Mohamed Amine Amoura (Wolfsburg)",
+          "Nadir Benbouali",
+          "Adil Boulbina",
+          "Farès Ghedjemis",
+          "Amine Gouiri (Marseille)",
+          "Riyad Mahrez (Al-Ahli SC)",
+          "Anis Hadj Moussa (Feyenoord)"
+        ]
+      },
+      "keyPlayers": [
+        "Riyad Mahrez (Al-Ahli SC, 35, ĐT) - vĩ đại nhất lịch sử Algeria, VĐ PL (Leicester & Man City), VĐ Champions League 2023, kỳ WC ĐẦU TIÊN",
+        "Ismaël Bennacer (AC Milan) - 'Pirlo của Algeria', tiền vệ kiến thiết",
+        "Houssem Aouar (Al-Ittihad) - não bộ số 10, từng được Real quan tâm",
+        "Amine Gouiri (Marseille) - tiền đạo đỉnh cao Ligue 1",
+        "Mohamed Amoura (Wolfsburg) - tiền đạo nhanh, ghi bàn đều Bundesliga"
+      ],
+      "prediction": "Bảng J: Argentina #1 chắc. Trận vs Áo (27/6) là 'chung kết bảng' tranh nhì. Mục tiêu: vòng 1/16 - tái hiện 2014. Đội hình châu Âu chất lượng. Lo: loại AFCON 2025 sốc. Fox xếp ~#28.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "POR": {
+      "code": "POR",
+      "name": "Bồ Đào Nha",
+      "nick": "A Seleção",
+      "flag": "🇵🇹",
+      "group": "K",
+      "conf": "UEFA",
+      "fifa": null,
+      "detail": true,
+      "coach": "Roberto Martínez",
+      "captain": "Cristiano Ronaldo",
+      "stadium": "Estádio da Luz",
+      "summary": "\"Ronaldo's last dance\" — kỳ WC cuối của CR7. Thế hệ vàng với nhiều ngôi sao.",
+      "wcHistory": "Tốt nhất: Hạng 3 (1966), Bán kết (2006).",
+      "squad": {
+        "Thủ môn": [
+          "Diogo Costa (Porto)",
+          "José Sá (Wolves)",
+          "Rui Silva (Sporting CP)"
+        ],
+        "Hậu vệ": [
+          "João Cancelo (Al-Hilal)",
+          "Diogo Dalot (Man United)",
+          "Rúben Dias (Man City)",
+          "Gonçalo Inácio (Sporting CP)",
+          "Nuno Mendes (PSG)",
+          "Renato Veiga (Villarreal)",
+          "Matheus Nunes (Man City)",
+          "Nélson Semedo (Fenerbahçe)",
+          "Tomás Araújo (Benfica)"
+        ],
+        "Tiền vệ": [
+          "Bruno Fernandes (Man United)",
+          "João Neves (PSG)",
+          "Bernardo Silva (Man City)",
+          "Vitinha (PSG)",
+          "Rúben Neves (Al-Hilal)",
+          "Samu Costa (Mallorca)"
+        ],
+        "Tiền đạo": [
+          "Cristiano Ronaldo (Al-Nassr)",
+          "Rafael Leão (AC Milan)",
+          "Pedro Neto (Chelsea)",
+          "Francisco Conceição (Juventus)",
+          "João Félix (Al-Nassr)",
+          "Gonçalo Guedes (PSV)",
+          "Gonçalo Ramos (PSG)",
+          "Francisco Trincão (Sporting CP)"
+        ]
+      },
+      "keyPlayers": [
+        "Cristiano Ronaldo - kỳ WC cuối",
+        "Bruno Fernandes (Man United)",
+        "Rafael Leão (AC Milan)"
+      ],
+      "prediction": "Ứng viên sâu, phụ thuộc phong độ thế hệ trẻ quanh Ronaldo.",
+      "official": true,
+      "officialDate": "2026-05-19"
+    },
+    "UZB": {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "nick": "Oq Börilar",
+      "flag": "🇺🇿",
+      "group": "K",
+      "conf": "AFC",
+      "fifa": 50,
+      "coach": "Timur Kapadze (Uzbekistan, từ 2025 — cựu thủ quân U-23, kỷ nguyên mới)",
+      "captain": "Eldor Shomurodov (AS Roma)",
+      "stadium": "Pakhtakor Markaziy Stadium (Tashkent)",
+      "summary": "Lần ĐẦU TIÊN dự WC trong lịch sử (34 năm sau độc lập). Khusanov (Man City) là trung vệ hay nhất lịch sử. Shomurodov giữ kỷ lục ghi bàn ĐT (41).",
+      "qualification": "Vòng 3 AFC: đứng nhì sau Iran, giành vé tự động đầu tiên trong lịch sử (hòa Iran 2-2, 25/3/2025). Phá 'lời nguyền' play-off 2 lần (2006, 2014).",
+      "wcHistory": "Lần đầu tiên dự WC (2026). HCV Á vận hội 1994. Chưa từng vô địch Asian Cup (tốt nhất bán kết 2011). VĐ U-23 Asian Cup 2018.",
+      "squad": {
+        "Thủ môn": [
+          "Botirali Ergashev",
+          "Abduvohid Nematov",
+          "Utkir Yusupov"
+        ],
+        "Hậu vệ": [
+          "Abdukodir Khusanov (Man City)",
+          "Khojiakbar Alijonov",
+          "Rustamjon Ashurmatov",
+          "Farrukh Sayfiev",
+          "Sherzod Nasrullaev",
+          "Umarbek Eshmuradov",
+          "Avazbek Ulmasaliev",
+          "Jakhongir Urozov",
+          "Bekhruz Karimov",
+          "Abdulla Abdullaev"
+        ],
+        "Tiền vệ": [
+          "Akmal Mozgovoy",
+          "Otabek Shukurov (Persepolis)",
+          "Jamshid Iskanderov",
+          "Odiljon Hamrobekov",
+          "Jaloliddin Masharipov (Pakhtakor)",
+          "Azizbek Ganiev",
+          "Sherzod Esanov",
+          "Abbosbek Fayzullaev (CSKA Moscow)"
+        ],
+        "Tiền đạo": [
+          "Azizbek Amonov",
+          "Eldor Shomurodov (AS Roma)",
+          "Igor Sergeev",
+          "Oston Urunov",
+          "Dostonbek Hamdamov"
+        ]
+      },
+      "keyPlayers": [
+        "Abdukodir Khusanov (Man City, 22) - trung vệ hay nhất lịch sử Uzbekistan, VĐ Premier League 24-25, nhanh & mạnh",
+        "Eldor Shomurodov (AS Roma, 30, ĐT) - kỷ lục gia ghi bàn ĐT (41 bàn), veteran Serie A",
+        "Khusayin Norchaev (Pohang Steelers) - tiền đạo trẻ tỏa sáng ở Hàn Quốc",
+        "Jaloliddin Masharipov (Pakhtakor) - wing trái sáng tạo",
+        "Otabek Shukurov (Persepolis) - tiền vệ tấn công"
+      ],
+      "prediction": "Bảng K: BĐN #1, Colombia #2. Tranh #3 với DR Congo. Trận vs Colombia mở màn định hình. Mục tiêu: giành điểm đầu tiên ở WC (khả thi trước DR Congo). Biểu tượng: Khusanov vs Ronaldo. Fox xếp #40.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "COD": {
+      "code": "COD",
+      "name": "DR Congo",
+      "nick": "Les Léopards",
+      "flag": "🇨🇩",
+      "group": "K",
+      "conf": "CAF",
+      "fifa": 46,
+      "coach": "Sébastien Desabre (Pháp, từ 2022 — từng dẫn Uganda dự AFCON 2019)",
+      "captain": "Chancel Mbemba (Lille)",
+      "stadium": "Stade des Martyrs (Kinshasa)",
+      "summary": "Trở lại WC sau 52 năm (lần cuối là Zaire năm 1974). Tiền đạo Wissa (Newcastle) đẳng cấp Premier League. Vào WC qua play-off liên lục địa.",
+      "qualification": "Vòng loại CAF nhì bảng B → playoff thắng Nigeria & Cameroon → liên lục địa thắng Jamaica (11/2025). AFCON 2023: hạng 4.",
+      "wcHistory": "2 lần dự (1974 với tên Zaire, 2026). Đội châu Phi da đen hiện đại ĐẦU TIÊN dự WC. WC 1974 thua cả 3 (gồm Nam Tư 0-9). VĐ AFCON 1968, 1974.",
+      "squad": {
+        "Thủ môn": [
+          "Lionel Mpasi (Rodez)",
+          "Timothy Fayulu (Sion)",
+          "Matthieu Epolo (Standard Liège)"
+        ],
+        "Hậu vệ": [
+          "Chancel Mbemba (Lille)",
+          "Arthur Masuaku (Sunderland)",
+          "Gédéon Kalulu (Lorient)",
+          "Joris Kayembe (Genk)",
+          "Dylan Batubinsika (Saint-Étienne)",
+          "Axel Tuanzebe (Burnley)",
+          "Aaron Wan-Bissaka (West Ham)",
+          "Rocky Bushiri (Hibernian)",
+          "Steve Kapuadi (Legia Warsaw)"
+        ],
+        "Tiền vệ": [
+          "Meschack Elia (Young Boys)",
+          "Samuel Moutoussamy (Nantes)",
+          "Edo Kayembe (Watford)",
+          "Charles Pickel (Cremonese)",
+          "Gaël Kakuta (Linafoot/Amiens)",
+          "Noah Sadiki (Sunderland)",
+          "Nathanaël Mbuku (Augsburg)",
+          "Ngal'ayel Mukau (Lille)",
+          "Brian Cipenga (Lyon)"
+        ],
+        "Tiền đạo": [
+          "Cédric Bakambu (Real Betis)",
+          "Théo Bongonda (Spartak Moscow)",
+          "Fiston Mayele (Pyramids FC)",
+          "Yoane Wissa (Newcastle)",
+          "Simon Banza (Rennes)"
+        ]
+      },
+      "keyPlayers": [
+        "Yoane Wissa (Newcastle, 29) - top ghi bàn Premier League 24-25, vừa chuyển từ Brentford",
+        "Chancel Mbemba (Lille, ĐT) - trung vệ châu Âu, cựu Newcastle, Porto, Marseille",
+        "Fiston Mayele (Pyramids FC) - vua phá lưới AFCON 2023 (5 bàn)",
+        "Cédric Bakambu (Real Betis) - tiền đạo veteran, La Liga",
+        "Axel Tuanzebe (cựu Man United) - trung vệ kinh nghiệm Champions League"
+      ],
+      "prediction": "Bảng K: BĐN #1, Colombia #2. Tranh #3 với Uzbekistan (trận cuối quyết định). Mục tiêu: điểm đầu tiên kể từ 1974. Vào knockout sẽ là kỳ tích. Fox xếp ~#39.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-18"
+    },
+    "COL": {
+      "code": "COL",
+      "name": "Colombia",
+      "nick": "Los Cafeteros",
+      "flag": "🇨🇴",
+      "group": "K",
+      "conf": "CONMEBOL",
+      "fifa": 12,
+      "coach": "Néstor Lorenzo (Argentina, từ 6/2022 — cựu trợ lý Pekerman)",
+      "captain": "James Rodríguez (Minnesota United, 34)",
+      "stadium": "Estadio Metropolitano (Barranquilla)",
+      "summary": "Dark horse Nam Mỹ. Á quân Copa America 2024. Mạch 28 trận bất bại dưới Lorenzo. Kỳ WC cuối của James, kỳ đỉnh cao đầu của Luis Díaz.",
+      "qualification": "Đứng thứ 3 CONMEBOL (sau Argentina, Ecuador). Chuỗi 28 trận bất bại kết thúc ở CK Copa America 2024 (thua Argentina).",
+      "wcHistory": "7 lần dự. Tốt nhất: Tứ kết 2014 (James giành Golden Boot 6 bàn + bàn đẹp nhất giải). Vắng WC 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Camilo Vargas (Atlas)",
+          "Álvaro Montero (Vasco da Gama)",
+          "David Ospina"
+        ],
+        "Hậu vệ": [
+          "Davinson Sánchez (Galatasaray)",
+          "Jhon Lucumí (Bologna)",
+          "Yerry Mina (Cagliari)",
+          "Willer Ditta (Cruz Azul)",
+          "Daniel Muñoz (Crystal Palace)",
+          "Santiago Arias",
+          "Johan Mojica (Mallorca)",
+          "Deiver Machado (Lens)"
+        ],
+        "Tiền vệ": [
+          "Richard Ríos (Benfica)",
+          "Jefferson Lerma (Crystal Palace)",
+          "Kevin Castaño (River Plate)",
+          "Juan Camilo Portilla (Talleres)",
+          "Gustavo Puerta (Hull City)",
+          "Jhon Arias (Wolves)",
+          "Jorge Carrascal (Flamengo)",
+          "Juan Fernando Quintero (River Plate)",
+          "James Rodríguez (Club León)",
+          "Jaminton Campaz"
+        ],
+        "Tiền đạo": [
+          "Juan Camilo Hernández (Real Betis)",
+          "Luis Díaz (Bayern Munich)",
+          "Luis Suárez (Sporting CP)",
+          "Carlos Gómez",
+          "Jhon Córdoba (Krasnodar)"
+        ]
+      },
+      "keyPlayers": [
+        "Luis Díaz (Bayern Munich, 29) - chạy cánh trái top 5 thế giới, 20+ goal-contributions Bundesliga 25-26",
+        "James Rodríguez (Minnesota Utd, 34, ĐT) - Golden Boot WC 2014, kỳ WC cuối",
+        "Daniel Muñoz (Crystal Palace) - hậu vệ phải hay nhất Premier League 24-25",
+        "Richard Ríos (Benfica) - tiền vệ ngôi sao đang nổi",
+        "Jhon Arias (Wolves) - sáng tạo, đa năng"
+      ],
+      "prediction": "Bảng K hóc búa (BĐN ưu thế). Tứ kết là mục tiêu hợp lý, dark horse đúng nghĩa. Trận Colombia vs BĐN lượt cuối được gọi là 'hóc búa nhất vòng bảng'. Chốt đội hình 29/5.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "ENG": {
+      "code": "ENG",
+      "name": "Anh",
+      "nick": "Three Lions",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": "L",
+      "conf": "UEFA",
+      "fifa": 4,
+      "coach": "Thomas Tuchel (Đức, từ 1/2025)",
+      "captain": "Harry Kane (Bayern Munich)",
+      "stadium": "Wembley Stadium (London)",
+      "summary": "Tuchel gây sốc với danh sách công bố 22/5: LOẠI Foden, Cole Palmer, Alexander-Arnold, Maguire. Rashford trở lại (đang khoác áo Barcelona), Henderson được gọi, cùng các gương mặt mới O'Reilly, Spence, Quansah. Sky Sports gọi đây là danh sách gây sốc nhất kể từ 1998.",
+      "qualification": "Vòng loại UEFA bảng K: 6 thắng tuyệt đối. Gần nhất thua sốc Nhật Bản 0-1 tại Wembley (3/2026).",
+      "wcHistory": "17 lần dự. Vô địch 1 lần (1966 chủ nhà). Bán kết 1990, 2018. Á quân 2 kỳ Euro liên tiếp (2020, 2024).",
+      "squad": {
+        "Thủ môn": [
+          "Jordan Pickford (Everton)",
+          "Dean Henderson (Crystal Palace)",
+          "James Trafford (Man City)"
+        ],
+        "Hậu vệ": [
+          "Reece James (Chelsea)",
+          "Ezri Konsa (Aston Villa)",
+          "Jarell Quansah (Bayer Leverkusen)",
+          "John Stones (Man City)",
+          "Marc Guéhi (Man City)",
+          "Dan Burn (Newcastle)",
+          "Nico O'Reilly (Man City)",
+          "Djed Spence (Tottenham)",
+          "Tino Livramento (Newcastle)"
+        ],
+        "Tiền vệ": [
+          "Declan Rice (Arsenal)",
+          "Elliot Anderson (Nottingham Forest)",
+          "Kobbie Mainoo (Man United)",
+          "Jordan Henderson (Brentford)",
+          "Morgan Rogers (Aston Villa)",
+          "Jude Bellingham (Real Madrid)",
+          "Eberechi Eze (Arsenal)"
+        ],
+        "Tiền đạo": [
+          "Harry Kane (Bayern Munich)",
+          "Ivan Toney (Al-Ahli)",
+          "Ollie Watkins (Aston Villa)",
+          "Bukayo Saka (Arsenal)",
+          "Marcus Rashford (Barcelona)",
+          "Anthony Gordon (Newcastle)",
+          "Noni Madueke (Arsenal)"
+        ]
+      },
+      "keyPlayers": [
+        "Jude Bellingham (22) - não bộ tấn công box-to-box, kỳ WC thứ 2",
+        "Harry Kane (32, ĐT) - kỷ lục gia ghi bàn lịch sử Anh 73+ bàn",
+        "Declan Rice (Arsenal) - mỏ neo top thế giới",
+        "Cole Palmer (Chelsea) - số 10 sáng tạo, vua kiến tạo Premier League",
+        "Phil Foden (Man City) - PFA Player of Year 2024"
+      ],
+      "prediction": "Chung kết là mục tiêu. Có thể phá lời nguyền 60 năm. Croatia là đối thủ nguy hiểm nhất bảng L. Tỷ lệ vô địch ~+550.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-22"
+    },
+    "CRO": {
+      "code": "CRO",
+      "name": "Croatia",
+      "nick": "Vatreni",
+      "flag": "🇭🇷",
+      "group": "L",
+      "conf": "UEFA",
+      "fifa": 10,
+      "coach": "Zlatko Dalić (Croatia, từ 10/2017)",
+      "captain": "Luka Modrić (AC Milan, 40)",
+      "stadium": "Stadion Maksimir (Zagreb)",
+      "summary": "Top 3 ở 2/3 kỳ WC gần nhất (Á quân 2018, Hạng 3 2022). DNA knockout đỉnh cao nhưng đội hình tuổi cao - 'thế hệ vàng cuối cùng'.",
+      "qualification": "Vòng loại UEFA: đứng đầu bảng, vé tự động. Euro 2024 bị loại vòng bảng (sốc).",
+      "wcHistory": "7 lần dự. Tốt nhất: Á quân 2018 (Modrić Golden Ball). Hạng 3 1998 & 2022. Loại Brazil & Nhật penalty ở 2022.",
+      "squad": {
+        "Thủ môn": [
+          "Dominik Livaković (Girona)",
+          "Dominik Kotarski (PAOK)",
+          "Ivor Pandur (Hellas Verona)"
+        ],
+        "Hậu vệ": [
+          "Joško Gvardiol (Man City)",
+          "Duje Ćaleta-Car (Lyon)",
+          "Josip Stanišić (Bayer Leverkusen)",
+          "Marin Pongračić (Fiorentina)",
+          "Martin Erlić (Sassuolo)",
+          "Luka Vušković (Tottenham)"
+        ],
+        "Tiền vệ": [
+          "Luka Modrić (AC Milan)",
+          "Mateo Kovačić (Man City)",
+          "Mario Pašalić (Atalanta)",
+          "Nikola Vlašić (Torino)",
+          "Luka Sučić (Real Sociedad)",
+          "Martin Baturina (Dinamo Zagreb)",
+          "Kristijan Jakić (Hajduk Split)",
+          "Petar Sučić (Inter Milan)",
+          "Nikola Moro (Bologna)",
+          "Toni Fruk (Rijeka)"
+        ],
+        "Tiền đạo": [
+          "Ivan Perišić (PSV)",
+          "Andrej Kramarić (Hoffenheim)",
+          "Ante Budimir (Osasuna)",
+          "Marco Pašalić (Orlando City)",
+          "Petar Musa (Dallas)",
+          "Igor Matanović (Eintracht Frankfurt)"
+        ]
+      },
+      "keyPlayers": [
+        "Luka Modrić (40, ĐT) - vĩ đại nhất lịch sử Croatia, Ballon d'Or 2018, vẫn đỉnh cao",
+        "Joško Gvardiol (24) - trung vệ chân trái hay nhất thế giới",
+        "Mateo Kovačić (Man City) - tiền vệ kiến thiết",
+        "Dominik Livaković (Girona) - anh hùng penalty WC 2022",
+        "Petar Sučić (AC Milan, 21) - người kế nhiệm Modrić"
+      ],
+      "prediction": "Tứ kết - bán kết là mục tiêu hợp lý. 'Underdog favourite'. Trận vs Anh mở màn quyết định. Tỷ lệ ~+2500.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-05-18"
+    },
+    "GHA": {
+      "code": "GHA",
+      "name": "Ghana",
+      "nick": "Black Stars",
+      "flag": "🇬🇭",
+      "group": "L",
+      "conf": "CAF",
+      "fifa": 74,
+      "coach": "Trống (Otto Addo bị sa thải 31/3/2026 — GFA tìm HLV mới gấp)",
+      "captain": "André Ayew / Thomas Partey (xoay vòng)",
+      "stadium": "Accra Sports Stadium",
+      "summary": "Thế hệ mới Kudus-Semenyo-Williams-Salisu. Nhưng khủng hoảng HLV (sa thải Otto Addo 72 ngày trước giải) và phong độ lao dốc (thua Áo 1-5).",
+      "qualification": "Vòng loại CAF: đứng đầu bảng I, vé tự động. Giao hữu khủng hoảng: hòa Nhật & Hàn, thua Đức 1-2, thua Áo 1-5. Otto Addo sa thải 31/3.",
+      "wcHistory": "5 lần dự. Tốt nhất: Tứ kết WC 2010 (thua Uruguay penalty sau Gyan trượt phạt đền phút 120, Suárez handball). VĐ AFCON 4 lần.",
+      "squad": {
+        "Thủ môn": [
+          "Joseph Anang",
+          "Benjamin Asare",
+          "Lawrence Ati-Zigi (St. Gallen)"
+        ],
+        "Hậu vệ": [
+          "Jonas Adjetey (Basel)",
+          "Derrick Luckassen",
+          "Gideon Mensah (Hatayspor)",
+          "Abdul Mumin (Rayo Vallecano)",
+          "Jerome Opoku",
+          "Kojo Oppong Preprah",
+          "Baba Abdul Rahman",
+          "Alidu Seidu (Stade Rennais)",
+          "Marvin Senaya"
+        ],
+        "Tiền vệ": [
+          "Augustine Boakye (Wolfsberger AC)",
+          "Abdul Fatawu Issahaku (Sporting CP)",
+          "Elisha Owusu (Auxerre)",
+          "Thomas Partey (Villarreal)",
+          "Kwasi Sibo",
+          "Kamaldeen Sulemana (Atalanta)",
+          "Caleb Yirenkyi"
+        ],
+        "Tiền đạo": [
+          "Prince Kwabena Adu",
+          "Jordan Ayew (Leicester)",
+          "Christopher Bonsu Baah",
+          "Ernest Nuamah (Lyon)",
+          "Antoine Semenyo (Man City)",
+          "Brandon Thomas-Asante (Coventry)",
+          "Iñaki Williams (Athletic Bilbao)"
+        ]
+      },
+      "keyPlayers": [
+        "Mohammed Kudus (Tottenham, 25) - ngôi sao số 1, tiền vệ/wing/số 10 đa năng, cựu Ajax & West Ham",
+        "Íñaki Williams (Athletic Bilbao, 31) - anh trai Nico Williams (TBN), số 9/wing",
+        "Antoine Semenyo (Man City) - vừa chuyển đến sau mùa bùng nổ ở Bournemouth",
+        "Thomas Partey (Villarreal) - mỏ neo giữa sân, cựu Arsenal & Atlético",
+        "André Ayew (35) - veteran đội trưởng, con trai Abedi Pelé"
+      ],
+      "prediction": "Bảng L: Anh #1, Croatia tranh nhì. Trận mở màn vs Panama quyết định. Mục tiêu: vòng 1/16 (có thể qua hạng 3 tốt). Khủng hoảng HLV là điểm lo lớn nhất. Fox xếp ~#38.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    },
+    "PAN": {
+      "code": "PAN",
+      "name": "Panama",
+      "nick": "Los Canaleros",
+      "flag": "🇵🇦",
+      "group": "L",
+      "conf": "CONCACAF",
+      "fifa": 33,
+      "coach": "Thomas Christiansen (TBN/Đan Mạch, từ 2020 — cựu vua phá lưới Bundesliga)",
+      "captain": "Aníbal Godoy (San Diego FC, 36)",
+      "stadium": "Estadio Rommel Fernández (Panama City)",
+      "summary": "Lần dự WC thứ 2. Á quân CONCACAF Nations League 2025. Phòng ngự kỷ luật dưới Christiansen. Carrasquilla là CONCACAF Player of the Year. Mục tiêu: thắng WC đầu tiên.",
+      "qualification": "Vòng loại CONCACAF vòng 3 bảng A: đứng đầu, vé trực tiếp (thắng El Salvador 3-0 lượt cuối). Á quân Nations League 2025. Thắng Nam Phi 2-1 giao hữu 3/2026.",
+      "wcHistory": "2 lần dự (2018, 2026). WC 2018 thua cả 3 (hạng 32/32), nhưng Felipe Baloy ghi bàn lịch sử đầu tiên vs Anh. Á quân Gold Cup 3 lần (2005, 2013, 2023).",
+      "squad": {
+        "Thủ môn": [
+          "Orlando Mosquera (Al-Fayha)",
+          "Luis Mejía (Nacional)",
+          "César Samudio"
+        ],
+        "Hậu vệ": [
+          "César Blackman",
+          "Jorge Gutiérrez",
+          "Amir Murillo (Beşiktaş)",
+          "Fidel Escobar (Saprissa)",
+          "Andrés Andrade (LASK)",
+          "Edgardo Fariña (Pari Nizhny Novgorod)",
+          "José Córdoba (Norwich City)",
+          "Eric Davis (Plaza Amador)",
+          "Jiovany Ramos",
+          "Roderick Miller (Turan Tovuz)"
+        ],
+        "Tiền vệ": [
+          "Aníbal Godoy (San Diego FC)",
+          "Adalberto Carrasquilla (UNAM)",
+          "Carlos Harvey (Minnesota United)",
+          "Cristian Martínez (Ironi Kiryat Shmona)",
+          "José Luis Rodríguez (Juárez)",
+          "César Yanis (Cobresal)",
+          "Yoel Bárcenas (Mazatlán)",
+          "Alberto Quintero (Plaza Amador)",
+          "Azarías Londoño (Universidad Católica)"
+        ],
+        "Tiền đạo": [
+          "Ismael Díaz (Club León)",
+          "Cecilio Waterman (Universidad de Concepción)",
+          "José Fajardo (Universidad Católica)",
+          "Tomás Rodríguez (Saprissa)"
+        ]
+      },
+      "keyPlayers": [
+        "Adalberto 'Coco' Carrasquilla (UNAM, 27) - động cơ của đội, MVP Gold Cup 2023, CONCACAF Player of the Year 23-24",
+        "Amir Murillo (Marseille, 30) - hậu vệ phải kinh nghiệm, 90 trận ĐT, đang đá Ligue 1",
+        "Ismael Díaz (León) - tiền đạo chính, ghi bàn đều",
+        "José Córdoba (Norwich City) - trung vệ trẻ, mắt xích phòng ngự",
+        "Aníbal Godoy (San Diego FC, 36, ĐT) - thủ lĩnh tinh thần"
+      ],
+      "prediction": "Bảng L 'mini tử thần' (Anh #4, Croatia #11). Ghana là đối thủ cân sức nhất. Mục tiêu: thắng WC đầu tiên trong lịch sử (khả thi vs Ghana). Phòng ngự kỷ luật là điểm mạnh. Vào 1/16 là thách thức.",
+      "detail": true,
+      "official": true,
+      "officialDate": "2026-06-02"
+    }
+  }
+}
