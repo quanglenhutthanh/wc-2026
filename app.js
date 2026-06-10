@@ -6,7 +6,6 @@
 "use strict";
 
 const STORE_KEY = "wc2026_results_v1";
-const STORE_SCORERS = "wc2026_scorers_v1";
 const STORE_SQUADS = "wc2026_squads_v1";
 const NOW = new Date(); // thời điểm hiện tại để xác định "trận gần nhất"
 
@@ -42,12 +41,10 @@ async function storeSet(key,val){
   if(hasLocalStorage){ try{ window.localStorage.setItem(key,val); }catch(e){} }
 }
 async function loadState(){
-  try{ const r=await storeGet(STORE_KEY);     if(r) RESULTS = JSON.parse(r); }catch(e){}
-  try{ const s=await storeGet(STORE_SCORERS); if(s) SCORERS = JSON.parse(s); }catch(e){}
-  try{ const q=await storeGet(STORE_SQUADS);  if(q) SQUADS  = JSON.parse(q); }catch(e){}
+  try{ const r=await storeGet(STORE_KEY);    if(r) RESULTS = JSON.parse(r); }catch(e){}
+  try{ const q=await storeGet(STORE_SQUADS); if(q) SQUADS  = JSON.parse(q); }catch(e){}
 }
 async function saveResults(){ await storeSet(STORE_KEY, JSON.stringify(RESULTS)); }
-async function saveScorers(){ await storeSet(STORE_SCORERS, JSON.stringify(SCORERS)); }
 async function saveSquads(){  await storeSet(STORE_SQUADS, JSON.stringify(SQUADS)); }
 
 /* ---------- Helpers ---------- */
@@ -612,39 +609,21 @@ function renderScorers(){
       <button class="chip ${scorerTab==="goals"?"active":""}" data-t="goals">⚽ Ghi bàn</button>
       <button class="chip ${scorerTab==="assists"?"active":""}" data-t="assists">🅰️ Kiến tạo</button>
     </div>
-    <div class="add-form">
-      <input id="sfName" placeholder="Tên cầu thủ">
-      <select id="sfTeam">${Object.values(TEAMS).sort((a,b)=>a.name.localeCompare(b.name)).map(t=>`<option value="${t.code}">${t.flag} ${esc(t.name)}</option>`).join("")}</select>
-      <input id="sfVal" type="number" min="0" value="1" title="Số bàn/kiến tạo">
-      <button class="btn btn-gold" id="sfAdd">+ Thêm</button>
-    </div>
     <div id="rankList"></div>`;
   el.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{scorerTab=c.dataset.t;renderScorers();});
-  document.getElementById("sfAdd").onclick=addScorer;
   drawRank();
 }
 function drawRank(){
   const key=scorerTab==="goals"?"goals":"assists";
   const list=SCORERS.filter(s=>(s[key]||0)>0).sort((a,b)=>b[key]-a[key]);
   const box=document.getElementById("rankList");
-  if(!list.length){ box.innerHTML=`<div class="empty-state"><div class="es-ic">${scorerTab==="goals"?"⚽":"🅰️"}</div>Chưa có dữ liệu. Thêm cầu thủ ở trên — dữ liệu lưu trong trình duyệt và xuất được ra JSON.</div>`; return; }
+  if(!list.length){ box.innerHTML=`<div class="empty-state"><div class="es-ic">${scorerTab==="goals"?"⚽":"🅰️"}</div>Dữ liệu sẽ được cập nhật tự động sau mỗi vòng đấu.</div>`; return; }
   box.innerHTML=`<div class="rank-list">${list.map((s,i)=>{
     const t=T(s.team);
     return `<div class="rank-item"><div class="rank-num">${i+1}</div>
       <div class="rank-info"><b>${esc(s.name)}</b><span>${t.flag} ${esc(t.name)}</span></div>
-      <div style="display:flex;align-items:center;gap:14px"><span class="rank-val">${s[key]}</span>
-      <button class="btn" style="padding:5px 9px" onclick="WC.delScorer(${SCORERS.indexOf(s)})">✕</button></div></div>`;
+      <div style="display:flex;align-items:center;gap:14px"><span class="rank-val">${s[key]}</span></div></div>`;
   }).join("")}</div>`;
-}
-async function addScorer(){
-  const name=document.getElementById("sfName").value.trim();
-  const team=document.getElementById("sfTeam").value;
-  const val=parseInt(document.getElementById("sfVal").value,10)||0;
-  if(!name){ toast("⚠️ Nhập tên cầu thủ"); return; }
-  const key=scorerTab==="goals"?"goals":"assists";
-  let ex=SCORERS.find(s=>s.name.toLowerCase()===name.toLowerCase()&&s.team===team);
-  if(ex){ ex[key]=val; } else { const o={name,team,goals:0,assists:0}; o[key]=val; SCORERS.push(o); }
-  await saveScorers(); document.getElementById("sfName").value=""; drawRank(); toast("✅ Đã cập nhật");
 }
 
 /* ============================================================
@@ -692,7 +671,7 @@ function importJSON(file){
       if(d.results) RESULTS=d.results;
       if(d.scorers) SCORERS=d.scorers;
       if(d.squads) SQUADS=d.squads;
-      await saveResults(); await saveScorers(); await saveSquads();
+      await saveResults(); await saveSquads();
       refreshAll(); toast("⬆ Đã nhập dữ liệu");
     }catch(e){ toast("⚠️ File không hợp lệ"); }
   };
@@ -709,7 +688,7 @@ function refreshAll(){
 }
 
 // API công khai cho onclick inline
-window.WC={ closeModal, openTeam:openTeamModal, delScorer:async(i)=>{ SCORERS.splice(i,1); await saveScorers(); drawRank(); } };
+window.WC={ closeModal, openTeam:openTeamModal };
 
 /* ============================================================
    FETCH DỮ LIỆU TỪ SERVER (cách B)
